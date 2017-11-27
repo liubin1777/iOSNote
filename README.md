@@ -7,7 +7,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 - [签名](#app-sign)
 - [优化](#performance)
 	- [UI卡顿](#performance-ui)
-- [其它](#other)
+- [其它](#其它)
 
 # UIView
 * [UIView的layout的相关方法](http://www.jianshu.com/p/eb2c4bb4e3f1) - 谈谈UIView的几个layout方法-layoutSubviews、layoutIfNeeded、setNeedsLayout...
