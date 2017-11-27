@@ -9,7 +9,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 	- [UI卡顿](#UI卡顿)
 - [其它](#其它)
 
-# UIView
+# UIKit
 * [UIView的layout的相关方法](http://www.jianshu.com/p/eb2c4bb4e3f1) - 谈谈UIView的几个layout方法-layoutSubviews、layoutIfNeeded、setNeedsLayout...
 * [解开iOS Layout的神秘面纱](http://tech.gc.com/demystifying-ios-layout/)
 * [AutoLayout布局最佳实践](http://www.jianshu.com/p/07d1244f67dd)
