@@ -8,6 +8,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 - [优化](#优化)
 	- [UI卡顿](#ui卡顿)
 - [其它](#其它)
+- [工具](#工具)
 
 # UIKit
 * [UIView的layout的相关方法](http://www.jianshu.com/p/eb2c4bb4e3f1) - 谈谈UIView的几个layout方法-layoutSubviews、layoutIfNeeded、setNeedsLayout...
@@ -33,3 +34,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 
 
 # 其它
+
+# 工具
+* [MLeaksFinder](https://github.com/Tencent/MLeaksFinder) - 内存泄漏检测
+* [BSBacktraceLogger](https://github.com/bestswifter/BSBacktraceLogger) - 一个强大且轻量的线程调用栈分析器
