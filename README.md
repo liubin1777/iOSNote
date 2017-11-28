@@ -4,9 +4,10 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 # Content
 - [UIKit](#uikit)
 - [动画](#动画)
-- [签名](#签名)
+- [线程](#线程)
 - [优化](#优化)
 	- [UI卡顿](#ui卡顿)
+- [签名](#签名)
 - [其它](#其它)
 - [工具](#工具)
 
@@ -21,8 +22,9 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 
 # 动画
 
-# 签名
-* [iOS App 签名的原理](http://wereadteam.github.io/2017/03/13/Signature/)
+# 线程
+* [浅谈GCD中的信号量](http://www.jianshu.com/p/04ca5470f212)
+* [iOS之Thread调用栈学习](https://elliotsomething.github.io/2017/06/28/thread%E5%AD%A6%E4%B9%A0/)
 
 
 # 优化
@@ -31,7 +33,10 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [微信读书 iOS 性能优化总结](http://wereadteam.github.io/2016/05/03/WeRead-Performance/)
 * [iOS监控-卡顿检测](http://www.jianshu.com/p/ea36e0f2e7ae) 
 * [iOS进阶之页面性能优化](http://www.jianshu.com/p/1b5cbf155b31)
+* [RunLoop下的卡顿监控](http://www.jianshu.com/p/582b7ad7fe4d)
 
+# 签名
+* [iOS App 签名的原理](http://wereadteam.github.io/2017/03/13/Signature/)
 
 # 其它
 
