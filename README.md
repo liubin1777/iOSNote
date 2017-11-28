@@ -25,7 +25,9 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 # 线程
 * [浅谈GCD中的信号量](http://www.jianshu.com/p/04ca5470f212)
 * [iOS之Thread调用栈学习](https://elliotsomething.github.io/2017/06/28/thread%E5%AD%A6%E4%B9%A0/)
-
+* [深入理解RunLoop](https://blog.ibireme.com/2015/05/18/runloop/)
+* [深入理解iOS开发中的锁](https://bestswifter.com/ios-lock/)
+* [iOS笔记-多线程相关(pthread 、NSThread 、GCD、NSOperation)](http://www.jianshu.com/p/ccd1aa9bae00)
 
 # 优化
 
@@ -39,6 +41,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [iOS App 签名的原理](http://wereadteam.github.io/2017/03/13/Signature/)
 
 # 其它
+* [iOS 结构体简述](http://www.jianshu.com/p/7039864c769d)
 
 # 工具
 * [MLeaksFinder](https://github.com/Tencent/MLeaksFinder) - 内存泄漏检测
