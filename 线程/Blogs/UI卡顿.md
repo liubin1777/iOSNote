@@ -49,6 +49,7 @@ do {
 ```
 
 RunLoop的执行流程由下图表示
+
 ![](http://upload-images.jianshu.io/upload_images/783864-286c96ba8f26edcc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 从这个运行循环中可以看出，RunLoop休眠的事件是无法衡量的，处理事件的部分主要是在kCFRunLoopBeforeSources之后到kCFRunLoopBeforeWaiting之前和kCFRunLoopAfterWaiting 之后和运行循环结束之前这两个部分
@@ -79,9 +80,11 @@ dispatch_async(lxd_event_monitor_queue(), ^{
 ### 3. CADisplayLink监控
 
 从计算机的角度来说，假设屏幕在连续的屏幕刷新周期之内无法刷新屏幕内容，即是发生了卡顿。如下图第二个屏幕刷新周期出现了掉帧现象：
+
 ![](http://upload-images.jianshu.io/upload_images/783864-dbb17563cc7afbb7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 对于上述的两个方案。监听RunLoop无疑会污染主线程。死循环在线程间通信会造成大量的不必要损耗，即便GCD的性能已经很好了。因此，借鉴于MrPeak的文章，第三种方案采用CADisplayLink的方式来处理。思路是每个屏幕刷新周期派发标记位设置任务到主线程中，如果多次超出16.7ms的刷新阙值，即可看作是发生了卡顿。
+
 ![](http://upload-images.jianshu.io/upload_images/783864-84982c52c00496dc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ```obj-c
