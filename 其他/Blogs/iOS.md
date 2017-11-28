@@ -1,3 +1,15 @@
+# iOS常用的动画
+UIView动画，核心动画，帧动画，自定义转场动画
+
+Spring动画
+ios7.0以后新增了Spring动画(IOS系统动画大部分采用Spring Animation， 适用所有可被添加动画效果的属性)
+
+UIView是用来显示内容的，可以处理用户事件
+
+CALayer是用来绘制内容的，对内容进行动画处理依赖与UIView来进行显示，不能处理用户事件。
+
+UIView主要是对显示内容的管理而 CALayer 主要侧重显示内容的绘制。
+
 # iOS系统的signal可以被归为两类
 
 **第一类内核signal**，这类signal由操作系统内核发出，比如当我们访问VM上不属于自己的内存地址时，会触发EXC_BAD_ACCESS异常，内核检测到该异常之后会发出第二类signal：BSD signal，传递给应用程序。

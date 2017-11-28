@@ -19,8 +19,10 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [view从storyboard加载的流程](http://szulctomasz.com/2015/08/21/ios-initialization-process-of-a-view-loaded-from-a-storyboard.html)
 * [iOS开发-视图渲染](http://www.jianshu.com/p/748f9abafff8)
 * [iOS进阶之页面性能优化](http://oncenote.com/2015/12/08/How-to-build-UI/)
+* [详解 CALayer 和 UIView 的区别和联系](http://www.cocoachina.com/ios/20150828/13244.html)
 
 # 动画
+* [iOS动画，绝对够分量！](http://www.jianshu.com/p/9fa025c42261)
 
 # 线程
 * [浅谈GCD中的信号量](http://www.jianshu.com/p/04ca5470f212)
