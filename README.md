@@ -41,6 +41,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [iOS监控-卡顿检测](http://www.jianshu.com/p/ea36e0f2e7ae) 
 * [iOS进阶之页面性能优化](http://www.jianshu.com/p/1b5cbf155b31)
 * [RunLoop下的卡顿监控](http://www.jianshu.com/p/582b7ad7fe4d)
+* [iOS 保持界面流畅的技巧](https://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
 
 # 签名
 * [iOS App 签名的原理](http://wereadteam.github.io/2017/03/13/Signature/)
