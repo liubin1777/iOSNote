@@ -20,9 +20,12 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [iOS开发-视图渲染](http://www.jianshu.com/p/748f9abafff8)
 * [iOS进阶之页面性能优化](http://oncenote.com/2015/12/08/How-to-build-UI/)
 * [详解 CALayer 和 UIView 的区别和联系](http://www.cocoachina.com/ios/20150828/13244.html)
+* [iOS知识UI篇](http://www.jianshu.com/p/e1158b6cb663)
+* [iOS事件处理Hit-Testing](http://www.jianshu.com/p/12ef1c9f9741)
 
 # 动画
 * [iOS动画，绝对够分量！](http://www.jianshu.com/p/9fa025c42261)
+* [iOS动画原理--模型树和呈现树](http://www.jianshu.com/p/abf9bde5bd6a)
 
 # 线程
 * [浅谈GCD中的信号量](http://www.jianshu.com/p/04ca5470f212)
@@ -45,6 +48,9 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 
 # 其它
 * [iOS 结构体简述](http://www.jianshu.com/p/7039864c769d)
+* [iOS知识基础篇](http://www.jianshu.com/p/f099e36349cf)
+* [iOS知识原理篇一](http://www.jianshu.com/p/d87efbf427c5)
+* [iOS知识原理篇二](http://www.jianshu.com/p/cbd223c4c90f)
 
 # 工具
 * [MLeaksFinder](https://github.com/Tencent/MLeaksFinder) - 内存泄漏检测
