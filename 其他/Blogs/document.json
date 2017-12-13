@@ -90,5 +90,23 @@
       }
       ]
   },
-  "programmer": {}
+  "programmer": {
+    "searchs": [
+      {
+        "name": "Google",
+        "url": "https://www.google.com.hk/search?q=%s",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1000px-Google_%22G%22_Logo.svg.png"
+      },
+      {
+        "name": "百度",
+        "url": "https://www.baidu.com/s?wd=%s",
+        "icon": "https://cdn.worldvectorlogo.com/logos/baidu-icon.svg"
+      },
+      {
+        "name": "DuckDuckGo",
+        "url": "https://duckduckgo.com/",
+        "icon": "https://duckduckgo.com/assets/logo_social-media.png"
+      }
+    ]
+  }
 }
