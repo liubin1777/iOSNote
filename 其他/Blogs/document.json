@@ -1,0 +1,94 @@
+{
+  "designer": {
+    "searchs": [
+      {
+        "name": "Google",
+        "url": "https://www.google.com.hk/search?q=%s",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1000px-Google_%22G%22_Logo.svg.png"
+      },
+      {
+        "name": "百度",
+        "url": "https://www.baidu.com/s?wd=%s",
+        "icon": "https://cdn.worldvectorlogo.com/logos/baidu-icon.svg"
+      },
+      {
+        "name": "DuckDuckGo",
+        "url": "https://duckduckgo.com/",
+        "icon": "https://duckduckgo.com/assets/logo_social-media.png"
+      },
+      {
+        "name": "花瓣",
+        "url": "https://huaban.com/search/?q=%s",
+        "icon": "https://huaban.com/img/touch-icon-ipad.png"
+      },
+      {
+        "name": "站酷",
+        "url": "http://www.zcool.com.cn/search/content?&word=%s",
+        "icon": "http://img.zcool.cn/community/09160665742642e32f875b70fc57aac.jpg"
+      },
+      {
+        "name": "Behance",
+        "url": "https://www.behance.net/search?search=%s",
+        "icon": "http://ico.ooopic.com/ajax/iconpng/?id=154329.png"
+      },
+      {
+        "name": "Dribbble",
+        "url": "https://dribbble.com/search?q=%s",
+        "icon": "http://img.kuqin.com/upimg/allimg/151105/2044035159-1.png"
+      },
+      {
+        "name": "UI中国",
+        "url": "http://s.ui.cn/index.html?keywords=%s&type=project",
+        "icon": "https://www.lgstatic.com/thumbnail_300x300/image1/M00/00/19/CgYXBlTUWFWATk3xAABVBWeLAC4274.png"
+      },
+      {
+        "name": "IconFont",
+        "url": "http://www.iconfont.cn/search/index?searchType=icon&q=%s",
+        "icon": "https://ww1.sinaimg.cn/crop.0.0.499.499.1024/d31a02f8gw1eut2nwaia2j20dw0dwgmf.jpg"
+      }
+    ],
+    "favorites": [
+      {
+        "name": "花瓣",
+        "url": "http://huaban.com/",
+        "icon": "https://huaban.com/img/touch-icon-ipad.png"
+      },
+      {
+        "name": "Reeoo",
+        "url": "http://reeoo.com/",
+        "icon": "http://www.vokodesign.com/images/fav/fav_004.png"
+      },
+      {
+        "name": "站酷",
+        "url": "http://www.zcool.com.cn/",
+        "icon": "http://img.zcool.cn/community/09160665742642e32f875b70fc57aac.jpg"
+      },
+      {
+        "name": "Behance",
+        "url": "https://www.behance.net/",
+        "icon": "http://ico.ooopic.com/ajax/iconpng/?id=154329.png"
+      },
+      {
+        "name": "Dribbble",
+        "url": "https://dribbble.com/",
+        "icon": "http://img.kuqin.com/upimg/allimg/151105/2044035159-1.png"
+      },
+      {
+        "name": "UI中国",
+        "url": "http://www.ui.cn/index.php",
+        "icon": "https://www.lgstatic.com/thumbnail_300x300/image1/M00/00/19/CgYXBlTUWFWATk3xAABVBWeLAC4274.png"
+      },
+      {
+        "name": "IconFont",
+        "url": "http://www.iconfont.cn/",
+        "icon": "https://ww1.sinaimg.cn/crop.0.0.499.499.1024/d31a02f8gw1eut2nwaia2j20dw0dwgmf.jpg"
+      },
+      {
+        "name": "Covers",
+        "url": "http://www.coverr.co/",
+        "icon": "https://hirschcreative.com/wp-content/uploads/2015/10/final-coverr-white.jpg"
+      }
+      ]
+  },
+  "programmer": {}
+}
