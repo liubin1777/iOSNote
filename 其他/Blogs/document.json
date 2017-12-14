@@ -114,6 +114,16 @@
         "icon": "https://img3.doubanio.com/lpic/s29447016.jpg"
       },
       {
+        "name": "搜图",
+        "url": "https://www.google.com/search?tbm=isch&source=hp&biw=1280&bih=680&ei=vD8yWqH8L4yH8wXv_p_YCg&btnG=Google+%E6%90%9C%E7%B4%A2&q=%s&oq=112233&gs_l=img.3..35i39k1j0i19k1l5.1075.2042.0.2216.8.8.0.0.0.0.139.804.0j6.6.0....0...1ac.1.64.img..2.6.802.0..0j0i30k1j0i30i19k1j0i5i30i19k1.0.pKP1tzIrHZA",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1000px-Google_%22G%22_Logo.svg.png"
+      },
+      {
+        "name": "花瓣",
+        "url": "https://huaban.com/search/?q=%s",
+        "icon": "https://huaban.com/img/touch-icon-ipad.png"
+      },
+      {
         "name": "百度",
         "url": "https://www.baidu.com/s?wd=%s",
         "icon": "https://cdn.worldvectorlogo.com/logos/baidu-icon.svg"
