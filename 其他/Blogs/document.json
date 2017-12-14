@@ -132,6 +132,16 @@
         "name": "DuckDuckGo",
         "url": "https://duckduckgo.com/?q=%s",
         "icon": "https://duckduckgo.com/assets/icons/meta/DDG-icon_256x256.png"
+      },
+      {
+        "name": "简书",
+        "url": "http://www.jianshu.com/search?q=%s",
+        "icon": "http://cdn2.jianshu.io/assets/apple-touch-icons/120-1bb7371f5e87f93ce780a5f1a05ff1b176828ee0d1d130e768575918a2e05834.png"
+      },
+      {
+        "name": "知乎",
+        "url": "https://www.zhihu.com/search?type=content&q=%s",
+        "icon": "http://www.thepixellary.com/wp-content/uploads/2015/05/zhi-icon-chinese-ui.jpg"
       }
     ],
     "favorites": [
@@ -144,6 +154,16 @@
         "name": "最热",
         "url": "https://github.com/trending",
         "icon": "https://assets-cdn.github.com/pinned-octocat.svg"
+      },
+      {
+        "name": "jsbin",
+        "url": "http://jsbin.com/",
+        "icon": "http://static.jsbin.com/images/dave.min.svg"
+      },
+      {
+        "name": "Pocket",
+        "url": "https://getpocket.com",
+        "icon": "https://d15e55tqlrbrds.cloudfront.net/logo-pocket-1484164160616-pocket-300-sq.png"
       }
     ]
   }
