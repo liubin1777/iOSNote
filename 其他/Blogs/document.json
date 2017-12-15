@@ -124,6 +124,11 @@
         "icon": "https://huaban.com/img/touch-icon-ipad.png"
       },
       {
+        "name": "Linux命令",
+        "url": "http://man.linuxde.net/%s",
+        "icon": "http://www.iconarchive.com/download/i98403/dakirby309/simply-styled/OS-Linux.ico"
+      },
+      {
         "name": "百度",
         "url": "https://www.baidu.com/s?wd=%s",
         "icon": "https://cdn.worldvectorlogo.com/logos/baidu-icon.svg"
@@ -146,6 +151,16 @@
     ],
     "favorites": [
       {
+        "name": "腾讯视频",
+        "url": "https://v.qq.com/",
+        "icon": "https://lh3.googleusercontent.com/PU1Avokx8ZUaLKLzK6hym7t-c6dDQ7fRFj0FSv8JuaBQK-gKWYAIBOQO98AUzWpsTQ=w300"
+      }
+      {
+        "name": "36氪",
+        "url": "http://36kr.com/",
+        "icon": "https://static1.squarespace.com/static/569df4e042f55250d9277a4e/59e644cc4c326df433d5613a/59e644ecccc5c571eb2d3ff0/1508263148948/0.jpeg"
+      },
+      {
         "name": "Bitbucket",
         "url": "https://bitbucket.org",
         "icon": "https://cdn.worldvectorlogo.com/logos/bitbucket.svg"
@@ -164,6 +179,46 @@
         "name": "Pocket",
         "url": "https://getpocket.com",
         "icon": "https://d15e55tqlrbrds.cloudfront.net/logo-pocket-1484164160616-pocket-300-sq.png"
+      },
+      {
+        "name": "网易云课堂",
+        "url": "http://study.163.com/",
+        "icon": "https://d15e55tqlrbrds.cloudfront.net/logo-pocket-1484164160616-pocket-300-sq.png"
+      },
+      {
+        "name": "网易公开课",
+        "url": "https://open.163.com/",
+        "icon": "http://img.zcool.cn/community/0154cd577d37570000018c1bf3bf32.png"
+      },
+      {
+        "name": "Vultr",
+        "url": "https://www.vultr.com/",
+        "icon": "https://list.coupons/wp-content/uploads/2017/09/Vultr-Logo1.png"
+      },
+      {
+        "name": "阿里云",
+        "url": "https://www.aliyun.com",
+        "icon": "http://is3.mzstatic.com/image/thumb/Purple118/v4/d1/40/47/d14047e3-0b16-464f-cb47-5d27375f2598/source/175x175bb.jpg"
+      },
+      {
+        "name": "站长之家",
+        "url": "http://www.chinaz.com/",
+        "icon": "https://img.shouji.com.cn/simg/20170719/5168773035.jpg"
+      },
+      {
+        "name": "机器之心",
+        "url": "http://jiqizhixin.com",
+        "icon": "https://pbs.twimg.com/profile_images/753906274232709120/G422WoaA.jpg"
+      },
+      {
+        "name": "七牛",
+        "url": "https://www.qiniu.com/",
+        "icon": "https://pbs.twimg.com/profile_images/2808312770/7d0146a8c847b002f2edda9861da0677_400x400.png"
+      },
+      {
+        "name": "BootCDN",
+        "url": "http://www.bootcdn.cn/",
+        "icon": "http://img2.ctoutiao.com/uploads/company/2017/03/22/14901684373718.jpg"
       }
     ]
   }
