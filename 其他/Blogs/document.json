@@ -224,6 +224,16 @@
         "name": "JsonEditor",
         "url": "http://jsoneditoronline.org/",
         "icon": "https://alexdunndev.files.wordpress.com/2017/02/xamagonjson.png?w=609&h=510&crop=1"
+      },
+      {
+        "name": "百度云盘",
+        "url": "https://pan.baidu.com",
+        "icon": "https://www.gdaily.org/wp-content/uploads/2016/03/320709_21d9367af-a936-47ef-b290-815791a76026.png"
+      },
+      {
+        "name": "有道云笔记",
+        "url": "https://note.youdao.com/web/",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/ea/6d/d8/ea6dd815-b401-f1f8-ddb9-6ad41a4f7595/source/512x512bb.png"
       }
     ]
   }
