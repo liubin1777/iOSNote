@@ -234,6 +234,21 @@
         "name": "有道云笔记",
         "url": "https://note.youdao.com/web/",
         "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/d8/8b/f5/d88bf575-952c-05db-cb18-31c6730c27b1/source/256x256bb.jpg"
+      },
+      {
+        "name": "Bugly",
+        "url": "https://bugly.qq.com",
+        "icon": "https://cdn.bugly.qq.com/BuglyLogo/200x200landi.jpg"
+      },
+      {
+        "name": "OutLook",
+        "url": "https://mail.ztgame.com",
+        "icon": "https://www.v3.co.uk/w-images/b9574043-ae2e-4b15-ba0a-55fae128da0a/0/microsoftoutlooklogo-320x320.jpg"
+      },
+      {
+        "name": "巨人网络",
+        "url": "http://gnn.ztgame.com/",
+        "icon": "https://img.kanzhun.com/images/logo/20140708/974cd8a08bbfda091721ff43e8827869.jpg"
       }
     ]
   }
