@@ -46,6 +46,11 @@
         "name": "IconFont",
         "url": "http://www.iconfont.cn/search/index?searchType=icon&q=%s",
         "icon": "https://ww1.sinaimg.cn/crop.0.0.499.499.1024/d31a02f8gw1eut2nwaia2j20dw0dwgmf.jpg"
+      },
+      {
+        "name": "Pixabay",
+        "url": "https://pixabay.com/en/photos/?q=%s",
+        "icon": "https://pixabay.com/static/img/logo_square.png"
       }
     ],
     "favorites": [
