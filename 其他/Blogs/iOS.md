@@ -30,3 +30,12 @@ UI 操作和 DataSource 的操作一定在主线程。
 DB 操作、日志记录、网络回调都在各自的固定线程。
 不同业务，可以通过创建队列保证数据一致性。例如，想法列表的数据加载、书籍章节下载、书架加载等。
 合理的线程分配，最终目的就是保证主线程尽量少的处理非UI操作，同时控制整个App的子线程数量在合理的范围内。
+
+# NSTimer属性tolerance
+在NSTimer的头文件中，苹果新增了一个属性，叫做tolerance,我们可以理解为容差。苹果的意思是如果设定了tolerance值，那么:
+
+设定时间 <= NSTimer的启动时间 <= 设定时间 + tolerance
+
+
+# 动画
+为了不阻塞主线程，Core Animation 的核心是 OpenGL ES 的一个抽象物，所以大部分的渲染是直接提交给GPU来处理。 而Core Graphics/Quartz 2D的大部分绘制操作都是在主线程和CPU上同步完成的，比如自定义UIView的drawRect里用CGContext来画图。

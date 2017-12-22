@@ -264,6 +264,11 @@
         "name": "SegmentFault",
         "url": "http://www.segmentfault.com/",
         "icon": "https://d1qb2nb5cznatu.cloudfront.net/startups/i/207735-cf0d41ee7af5f3aea9ce9c859cad0ef5-medium_jpg.jpg?buster=1368472384"
+      },
+      {
+        "name": "伯乐在线",
+        "url": "http://www.jobbole.com/",
+        "icon": "https://avatars3.githubusercontent.com/u/8531823?s=200&v=4"
       }
     ]
   }
