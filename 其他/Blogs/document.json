@@ -254,6 +254,16 @@
         "name": "巨人网络",
         "url": "http://gnn.ztgame.com/",
         "icon": "https://img.kanzhun.com/images/logo/20140708/974cd8a08bbfda091721ff43e8827869.jpg"
+      },
+      {
+        "name": "掘金",
+        "url": "https://juejin.im/",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/%E6%8E%98%E9%87%91_LOGO.png/480px-%E6%8E%98%E9%87%91_LOGO.png"
+      },
+      {
+        "name": "SegmentFault",
+        "url": "http://www.segmentfault.com/",
+        "icon": "https://d1qb2nb5cznatu.cloudfront.net/startups/i/207735-cf0d41ee7af5f3aea9ce9c859cad0ef5-medium_jpg.jpg?buster=1368472384"
       }
     ]
   }
