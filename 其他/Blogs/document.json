@@ -269,6 +269,11 @@
         "name": "伯乐在线",
         "url": "http://www.jobbole.com/",
         "icon": "https://avatars3.githubusercontent.com/u/8531823?s=200&v=4"
+      },
+      {
+        "name": "开发者头条",
+        "url": "https://toutiao.io",
+        "icon": "https://af.ipafiles.com/icons/f/2/c/910949525.jpeg"
       }
     ]
   }
