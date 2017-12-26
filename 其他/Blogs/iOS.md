@@ -1,5 +1,22 @@
-[Offer](https://github.com/xuelangZF/CS_Offer/tree/master/Offer)
-[The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July)
+* [Offer](https://github.com/xuelangZF/CS_Offer/tree/master/Offer)
+* [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July)
+* [load和initialize](https://www.jianshu.com/p/71e25032e338)
+
+# 为什么说Objective-C是一门动态的语言？
+动态语言，是指程序在运行时可以改变其结构：新的函数可以被引进，已有的函数可以被删除等在结构上的变化。比如Ruby、Python等就是动态语言，而C、C++等语言则不属于动态语言。
+
+Dynamically Typed Language (动态类型语言)
+
+Objective-C的动态性让程序可以在运行时判断其该有的行为，而不是像C等静态语言一样在编译构建时就确定下来。它的动态性主要体现在一下三个方面：
+
+1、动态类型。 如id类型。实际上静态类型因为其固定性和可预知性而使用得更加广泛。静态类型是强类型，而动态类型属于弱类型。运行时决定接收者。
+
+2、 动态绑定。让代码在运行时判断需要调用什么方法，而不是在编译时。与其他面向对象语言一样，方法调用和代码并没有在编译时连接在一起，而是在消息发送时才进行连接。运行时决定调用哪个方法。
+
+3、 动态载入。让程序在运行时添加代码模块以及其他资源。用户可以根据需要加载一些可执行代码和资源，而不是在启动时就加载所有组件。可执行代码中可以含有和程序运行时整合的新类。
+
+对象是运行时类的一个实例。在类里声明了的实例变量和方法，它的每个实例都在内存中拥有同样的实例变量，以及指向那些方法的指针。在Objective-C中对象永远是通过指针来引用的。
+
 
 # NSNotification、Block、Delegate和KVO的区别
 
