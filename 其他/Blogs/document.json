@@ -2,6 +2,7 @@
   "designer": [
     {
       "label": "搜索",
+      "icon": "search",
       "list": [
         {
           "name": "Google",
@@ -57,6 +58,7 @@
     },
     {
       "label": "收藏",
+      "icon": "heart",
       "list": [
         {
           "name": "花瓣",
@@ -104,6 +106,7 @@
   "programmer": [
     {
       "label": "搜索",
+      "icon": "search",
       "list": [
         {
           "name": "Google",
@@ -164,6 +167,7 @@
     },
     {
       "label": "收藏",
+      "icon": "heart",
       "list": [
         {
           "name": "腾讯视频",
