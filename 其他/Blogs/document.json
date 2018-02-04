@@ -190,11 +190,6 @@
           "icon": "https://assets-cdn.github.com/pinned-octocat.svg"
         },
         {
-          "name": "JSBin",
-          "url": "http://jsbin.com/",
-          "icon": "http://static.jsbin.com/images/dave.min.svg"
-        },
-        {
           "name": "Pocket",
           "url": "https://getpocket.com",
           "icon": "https://d15e55tqlrbrds.cloudfront.net/logo-pocket-1484164160616-pocket-300-sq.png"
@@ -220,11 +215,6 @@
           "icon": "http://is3.mzstatic.com/image/thumb/Purple118/v4/d1/40/47/d14047e3-0b16-464f-cb47-5d27375f2598/source/175x175bb.jpg"
         },
         {
-          "name": "站长之家",
-          "url": "http://www.chinaz.com/",
-          "icon": "https://img.shouji.com.cn/simg/20170719/5168773035.jpg"
-        },
-        {
           "name": "机器之心",
           "url": "http://jiqizhixin.com",
           "icon": "https://pbs.twimg.com/profile_images/753906274232709120/G422WoaA.jpg"
@@ -238,11 +228,6 @@
           "name": "BootCDN",
           "url": "http://www.bootcdn.cn/",
           "icon": "http://img2.ctoutiao.com/uploads/company/2017/03/22/14901684373718.jpg"
-        },
-        {
-          "name": "JsonEditor",
-          "url": "http://jsoneditoronline.org/",
-          "icon": "https://alexdunndev.files.wordpress.com/2017/02/xamagonjson.png?w=609&h=510&crop=1"
         },
         {
           "name": "百度云盘",
@@ -289,6 +274,27 @@
           "url": "https://www.lintcode.com/",
           "icon": "http://upload.jianshu.io/collections/images/299883/QQ20161112-2_2x.png?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240"
         }
+      ]
+    },
+    {
+      "label": "工具",
+      "icon": "hammer",
+      "list": [
+        {
+          "name": "JSBin",
+          "url": "http://jsbin.com/",
+          "icon": "http://static.jsbin.com/images/dave.min.svg"
+        },
+        {
+          "name": "JsonEditor",
+          "url": "http://jsoneditoronline.org/",
+          "icon": "https://alexdunndev.files.wordpress.com/2017/02/xamagonjson.png?w=609&h=510&crop=1"
+        },
+                {
+          "name": "站长之家",
+          "url": "http://www.chinaz.com/",
+          "icon": "https://img.shouji.com.cn/simg/20170719/5168773035.jpg"
+        },
       ]
     }
   ]
