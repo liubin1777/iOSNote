@@ -182,7 +182,7 @@
         {
           "name": "Bitbucket",
           "url": "https://bitbucket.org",
-          "icon": "https://cdn.worldvectorlogo.com/logos/bitbucket.svg"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_12.png"
         },
         {
           "name": "最热",
@@ -202,7 +202,7 @@
         {
           "name": "网易公开课",
           "url": "https://open.163.com/",
-          "icon": "http://img.zcool.cn/community/0154cd577d37570000018c1bf3bf32.png"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_15.png"
         },
         {
           "name": "Vultr",
@@ -262,12 +262,12 @@
         {
           "name": "SegmentFault",
           "url": "http://www.segmentfault.com/",
-          "icon": "https://d1qb2nb5cznatu.cloudfront.net/startups/i/207735-cf0d41ee7af5f3aea9ce9c859cad0ef5-medium_jpg.jpg?buster=1368472384"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_27.png"
         },
         {
           "name": "伯乐在线",
           "url": "http://www.jobbole.com/",
-          "icon": "https://avatars3.githubusercontent.com/u/8531823?s=200&v=4"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_30.png"
         },
         {
           "name": "LintCode",
