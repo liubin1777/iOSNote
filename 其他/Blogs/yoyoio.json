@@ -162,6 +162,11 @@
           "name": "知乎",
           "url": "https://www.zhihu.com/search?type=content&q=%s",
           "icon": "https://lh3.googleusercontent.com/l-P4txx5H2iQ9H09rYofWp8o1FruSEO5dQ3Y8WQMuxVZDb_pKIzbHcM1lYM-beceCHEz=w300"
+        },
+        {
+          "name": "StackOverFlow",
+          "url": "https://stackoverflow.com/search?q=%s",
+          "icon": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded"
         }
       ]
     },
@@ -273,6 +278,11 @@
           "name": "LintCode",
           "url": "https://www.lintcode.com/",
           "icon": "http://upload.jianshu.io/collections/images/299883/QQ20161112-2_2x.png?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240"
+        },
+        {
+          "name": "开发者头条",
+          "url": "https://toutiao.io/",
+          "icon": "https://lh3.googleusercontent.com/5OoNnq_6ZcbLQjQPbuPiTt03dysReYcj27nMmzxDuFrehlXqD3viau8oDb7YGbrH8A=w300"
         }
       ]
     },
