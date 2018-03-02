@@ -46,6 +46,13 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 # 签名
 * [iOS App 签名的原理](http://wereadteam.github.io/2017/03/13/Signature/)
 
+# 编译原理
+* [iOS编译过程的原理和应用](http://blog.csdn.net/hello_hwc/article/details/53557308)
+* [C语言编译过程](http://mooc.guokr.com/note/13202/)
+* [编译器的工作过程](http://www.ruanyifeng.com/blog/2014/11/compiler.html)
+* [GCC  LLVM 背景](http://www.cnblogs.com/ydhliphonedev/archive/2012/08/29/2661726.html)
+* [GCC  VS Clang](http://clang.llvm.org/comparison.html)
+
 # 其它
 * [iOS 结构体简述](http://www.jianshu.com/p/7039864c769d)
 * [iOS知识基础篇](http://www.jianshu.com/p/f099e36349cf)
