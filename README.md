@@ -58,6 +58,8 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [iOS知识基础篇](http://www.jianshu.com/p/f099e36349cf)
 * [iOS知识原理篇一](http://www.jianshu.com/p/d87efbf427c5)
 * [iOS知识原理篇二](http://www.jianshu.com/p/cbd223c4c90f)
+* [Objective C编程规范以及建议](https://juejin.im/post/5a48f5816fb9a0451f314962)
+* [编写高质量iOS与OS X代码的52个有效方法](https://juejin.im/post/5a48f5876fb9a04503106f55)
 
 # 工具
 * [MLeaksFinder](https://github.com/Tencent/MLeaksFinder) - 内存泄漏检测
