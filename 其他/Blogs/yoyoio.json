@@ -7,52 +7,52 @@
         {
           "name": "Google",
           "url": "https://www.google.com.hk/search?q=%s",
-          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1000px-Google_%22G%22_Logo.svg.png"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_1.png"
         },
         {
           "name": "百度",
           "url": "https://www.baidu.com/s?wd=%s",
-          "icon": "https://cdn.worldvectorlogo.com/logos/baidu-icon.svg"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_20.png"
         },
         {
           "name": "DuckDuckGo",
           "url": "https://duckduckgo.com/?q=%s",
-          "icon": "https://duckduckgo.com/assets/icons/meta/DDG-icon_256x256.png"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_8.png"
         },
         {
           "name": "花瓣",
           "url": "https://huaban.com/search/?q=%s",
-          "icon": "https://huaban.com/img/touch-icon-ipad.png"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_5.png"
         },
         {
           "name": "站酷",
           "url": "http://www.zcool.com.cn/search/content?&word=%s",
-          "icon": "http://img.zcool.cn/community/09160665742642e32f875b70fc57aac.jpg"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_36.png"
         },
         {
           "name": "Behance",
           "url": "https://www.behance.net/search?search=%s",
-          "icon": "http://ico.ooopic.com/ajax/iconpng/?id=154329.png"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_37.png"
         },
         {
           "name": "Dribbble",
           "url": "https://dribbble.com/search?q=%s",
-          "icon": "http://img.kuqin.com/upimg/allimg/151105/2044035159-1.png"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_39.png"
         },
         {
           "name": "UI中国",
           "url": "http://s.ui.cn/index.html?keywords=%s&type=project",
-          "icon": "https://www.lgstatic.com/thumbnail_300x300/image1/M00/00/19/CgYXBlTUWFWATk3xAABVBWeLAC4274.png"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_41.png"
         },
         {
           "name": "IconFont",
           "url": "http://www.iconfont.cn/search/index?searchType=icon&q=%s",
-          "icon": "https://ww1.sinaimg.cn/crop.0.0.499.499.1024/d31a02f8gw1eut2nwaia2j20dw0dwgmf.jpg"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_38.png"
         },
         {
           "name": "Pixabay",
           "url": "https://pixabay.com/en/photos/?q=%s",
-          "icon": "https://pixabay.com/static/img/logo_square.png"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_40.png"
         }
       ]
     },
@@ -63,7 +63,7 @@
         {
           "name": "花瓣",
           "url": "http://huaban.com/",
-          "icon": "https://huaban.com/img/touch-icon-ipad.png"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_5.png"
         },
         {
           "name": "Reeoo",
@@ -73,27 +73,27 @@
         {
           "name": "站酷",
           "url": "http://www.zcool.com.cn/",
-          "icon": "http://img.zcool.cn/community/09160665742642e32f875b70fc57aac.jpg"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_36.png"
         },
         {
           "name": "Behance",
           "url": "https://www.behance.net/",
-          "icon": "http://ico.ooopic.com/ajax/iconpng/?id=154329.png"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_37.png"
         },
         {
           "name": "Dribbble",
           "url": "https://dribbble.com/",
-          "icon": "http://img.kuqin.com/upimg/allimg/151105/2044035159-1.png"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_39.png"
         },
         {
           "name": "UI中国",
           "url": "http://www.ui.cn/index.php",
-          "icon": "https://www.lgstatic.com/thumbnail_300x300/image1/M00/00/19/CgYXBlTUWFWATk3xAABVBWeLAC4274.png"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_41.png"
         },
         {
           "name": "IconFont",
           "url": "http://www.iconfont.cn/",
-          "icon": "https://ww1.sinaimg.cn/crop.0.0.499.499.1024/d31a02f8gw1eut2nwaia2j20dw0dwgmf.jpg"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_38.png"
         },
         {
           "name": "Covers",
@@ -111,12 +111,12 @@
         {
           "name": "Google",
           "url": "https://www.google.com.hk/search?q=%s",
-          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1000px-Google_%22G%22_Logo.svg.png"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_1.png"
         },
         {
           "name": "Github",
           "url": "https://github.com/search?q=%s&ref=opensearch",
-          "icon": "https://assets-cdn.github.com/pinned-octocat.svg"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_2.png"
         },
         {
           "name": "Npm",
@@ -162,11 +162,6 @@
           "name": "知乎",
           "url": "https://www.zhihu.com/search?type=content&q=%s",
           "icon": "https://lh3.googleusercontent.com/l-P4txx5H2iQ9H09rYofWp8o1FruSEO5dQ3Y8WQMuxVZDb_pKIzbHcM1lYM-beceCHEz=w300"
-        },
-        {
-          "name": "StackOverFlow",
-          "url": "https://stackoverflow.com/search?q=%s",
-          "icon": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded"
         }
       ]
     },
@@ -187,7 +182,7 @@
         {
           "name": "Bitbucket",
           "url": "https://bitbucket.org",
-          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_12.png"
+          "icon": "https://cdn.worldvectorlogo.com/logos/bitbucket.svg"
         },
         {
           "name": "最热",
@@ -207,7 +202,7 @@
         {
           "name": "网易公开课",
           "url": "https://open.163.com/",
-          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_15.png"
+          "icon": "http://img.zcool.cn/community/0154cd577d37570000018c1bf3bf32.png"
         },
         {
           "name": "Vultr",
@@ -237,7 +232,7 @@
         {
           "name": "百度云盘",
           "url": "https://pan.baidu.com",
-          "icon": "https://www.gdaily.org/wp-content/uploads/2016/03/320709_21d9367af-a936-47ef-b290-815791a76026.png"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_20.png"
         },
         {
           "name": "有道云笔记",
@@ -267,22 +262,17 @@
         {
           "name": "SegmentFault",
           "url": "http://www.segmentfault.com/",
-          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_27.png"
+          "icon": "https://d1qb2nb5cznatu.cloudfront.net/startups/i/207735-cf0d41ee7af5f3aea9ce9c859cad0ef5-medium_jpg.jpg?buster=1368472384"
         },
         {
           "name": "伯乐在线",
           "url": "http://www.jobbole.com/",
-          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_30.png"
+          "icon": "https://avatars3.githubusercontent.com/u/8531823?s=200&v=4"
         },
         {
           "name": "LintCode",
           "url": "https://www.lintcode.com/",
           "icon": "http://upload.jianshu.io/collections/images/299883/QQ20161112-2_2x.png?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240"
-        },
-        {
-          "name": "开发者头条",
-          "url": "https://toutiao.io/",
-          "icon": "https://lh3.googleusercontent.com/5OoNnq_6ZcbLQjQPbuPiTt03dysReYcj27nMmzxDuFrehlXqD3viau8oDb7YGbrH8A=w300"
         }
       ]
     },
@@ -293,17 +283,17 @@
         {
           "name": "JSBin",
           "url": "http://jsbin.com/",
-          "icon": "http://static.jsbin.com/images/dave.min.svg"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_31.png"
         },
         {
           "name": "JsonEditor",
           "url": "http://jsoneditoronline.org/",
-          "icon": "https://alexdunndev.files.wordpress.com/2017/02/xamagonjson.png?w=609&h=510&crop=1"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_34.png"
         },
         {
           "name": "站长之家",
           "url": "http://www.chinaz.com/",
-          "icon": "https://img.shouji.com.cn/simg/20170719/5168773035.jpg"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_35.png"
         }
       ]
     }
