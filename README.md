@@ -11,6 +11,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 - [其它](#其它)
 - [工具](#工具)
 - [Swift](#Swift)
+- [算法](#算法)
 
 # UIKit
 * [UIView的layout的相关方法](http://www.jianshu.com/p/eb2c4bb4e3f1) - 谈谈UIView的几个layout方法-layoutSubviews、layoutIfNeeded、setNeedsLayout...
@@ -70,3 +71,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 
 # Swift
 * [Swift文档](https://www.cnswift.org/)
+
+# 算法
+* [八大排序算法](http://blog.csdn.net/hguisu/article/details/7776068)
+* [经典排序算法总结与实现](http://wuchong.me/blog/2014/02/09/algorithm-sort-summary/)
