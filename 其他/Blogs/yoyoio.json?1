@@ -205,6 +205,28 @@
             "s": "https://www.google.com.hk/search?q=%s"
           }
         ]
+      },
+      {
+        "label": "收藏",
+        "icon": "heart",
+        "data": [
+          {
+            "n": "huaban",
+            "l": "https:www.huaban.com",
+            "d": "好的图片都在这"
+          }
+        ]
+      },
+      {
+        "label": "工具",
+        "icon": "hammer",
+        "data": [
+          {
+            "n": "baidu",
+            "l": "https:www.baidu.com",
+            "d": "搜索"
+          }
+        ]
       }
     ],
     "data": [
