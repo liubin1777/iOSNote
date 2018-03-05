@@ -7,14 +7,14 @@
         "data": [
           {
             "n": "Google",
-            "l": "https:www.google.com",
+            "l": "https://ww.google.com",
             "d": "搜索",
             "s": "https://www.google.com.hk/search?q=%s",
             "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_1.png"
           },
           {
             "n": "花瓣",
-            "l": "https:www.huaban.com",
+            "l": "https://ww.huaban.com",
             "d": "美的图片都在这",
             "s": "https://huaban.com/search/?q=%s",
             "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_5.png"
@@ -83,7 +83,7 @@
         "data": [
           {
             "n": "huaban",
-            "l": "https:www.huaban.com",
+            "l": "https://ww.huaban.com",
             "d": "好的图片都在这"
           }
         ]
@@ -94,7 +94,7 @@
         "data": [
           {
             "n": "baidu",
-            "l": "https:www.baidu.com",
+            "l": "https://ww.baidu.com",
             "d": "搜索"
           }
         ]
@@ -103,14 +103,14 @@
     "data": [
       {
         "n": "Google",
-        "l": "https:www.google.com",
+        "l": "https://ww.google.com",
         "d": "搜索",
         "s": "https://www.google.com.hk/search?q=%s",
         "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_1.png"
       },
       {
         "n": "花瓣",
-        "l": "https:www.huaban.com",
+        "l": "https://ww.huaban.com",
         "d": "美的图片都在这",
         "s": "https://huaban.com/search/?q=%s",
         "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_5.png"
@@ -131,7 +131,7 @@
       },
       {
         "n": "百度",
-        "l": "https:www.baidu.com",
+        "l": "https://ww.baidu.com",
         "d": "搜索",
         "s": "https://www.baidu.com/s?wd=%s",
         "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_20.png"
@@ -200,7 +200,7 @@
         "data": [
           {
             "n": "google",
-            "l": "https:www.google.com",
+            "l": "https://ww.google.com",
             "d": "搜索",
             "s": "https://www.google.com.hk/search?q=%s"
           }
@@ -212,7 +212,7 @@
         "data": [
           {
             "n": "huaban",
-            "l": "https:www.huaban.com",
+            "l": "https://ww.huaban.com",
             "d": "好的图片都在这"
           }
         ]
@@ -223,7 +223,7 @@
         "data": [
           {
             "n": "baidu",
-            "l": "https:www.baidu.com",
+            "l": "https://ww.baidu.com",
             "d": "搜索"
           }
         ]
@@ -232,7 +232,7 @@
     "data": [
       {
         "n": "Google",
-        "l": "https:www.google.com",
+        "l": "https://ww.google.com",
         "d": "搜索",
         "s": "https://www.google.com.hk/search?q=%s",
         "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_1.png"
@@ -260,7 +260,7 @@
       },
       {
         "n": "搜图",
-        "l": "https:www.google.com",
+        "l": "https://ww.google.com",
         "d": "图片搜索",
         "s": "https://www.google.com/search?tbm=isch&source=hp&biw=1280&bih=680&ei=vD8yWqH8L4yH8wXv_p_YCg&btnG=Google+%E6%90%9C%E7%B4%A2&q=%s&oq=112233&gs_l=img.3..35i39k1j0i19k1l5.1075.2042.0.2216.8.8.0.0.0.0.139.804.0j6.6.0....0...1ac.1.64.img..2.6.802.0..0j0i30k1j0i30i19k1j0i5i30i19k1.0.pKP1tzIrHZA",
         "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_1.png"
@@ -274,7 +274,7 @@
       },
       {
         "n": "花瓣",
-        "l": "https:www.huaban.com",
+        "l": "https://ww.huaban.com",
         "d": "美的图片都在这",
         "s": "https://huaban.com/search/?q=%s",
         "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_5.png"
@@ -288,7 +288,7 @@
       },
       {
         "n": "百度",
-        "l": "https:www.baidu.com",
+        "l": "https://ww.baidu.com",
         "d": "搜索",
         "s": "https://www.baidu.com/s?wd=%s",
         "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_20.png"
