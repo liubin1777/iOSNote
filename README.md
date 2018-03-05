@@ -10,6 +10,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 - [签名](#签名)
 - [其它](#其它)
 - [工具](#工具)
+- [内存管理](#内存管理)
 - [Swift](#Swift)
 
 # UIKit
@@ -67,6 +68,9 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [BSBacktraceLogger](https://github.com/bestswifter/BSBacktraceLogger) - 一个强大且轻量的线程调用栈分析器
 * [Chisel](http://hao.jobbole.com/chisel/?utm_source=ios.jobbole.com&utm_medium=homepage-resources) - iOS app 的辅助调试工具，提供了一系列的 LLDB 命令
 
+
+# 内存管理
+* [ARC的原理详解](http://www.cnblogs.com/runner42/p/5031154.html)
 
 # Swift
 * [Swift文档](https://www.cnswift.org/)
