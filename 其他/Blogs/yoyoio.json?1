@@ -1,0 +1,422 @@
+{
+  "designer": {
+    "tabs": [
+      {
+        "label": "搜索",
+        "icon": "search",
+        "data": [
+          {
+            "n": "Google",
+            "l": "https:www.google.com",
+            "d": "搜索",
+            "s": "https://www.google.com.hk/search?q=%s",
+            "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_1.png"
+          },
+          {
+            "n": "花瓣",
+            "l": "https:www.huaban.com",
+            "d": "美的图片都在这",
+            "s": "https://huaban.com/search/?q=%s",
+            "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_5.png"
+          },
+          {
+            "n": "DuckDuckGo",
+            "l": "https://duckduckgo.com",
+            "d": "搜索",
+            "s": "https://duckduckgo.com/?q=%s",
+            "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_8.png"
+          },
+          {
+            "n": "360",
+            "l": "https://hao.360.cn/",
+            "d": "搜索",
+            "s": "https://www.so.com/s?q=%s",
+            "i": "http://www.newasp.net/attachment/soft/2015/0826/094544_40847774.png"
+          },
+          {
+            "n": "站酷",
+            "l": "http://www.zcool.com.cn",
+            "d": "设计师互动平台",
+            "s": "http://www.zcool.com.cn/search/content?&word=%s",
+            "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_36.png"
+          },
+          {
+            "n": "Behance",
+            "l": "https://www.behance.net",
+            "d": "创意设计",
+            "s": "https://www.behance.net/search?search=%s",
+            "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_37.png"
+          },
+          {
+            "n": "Dribbble",
+            "l": "https://dribbble.com",
+            "d": "设计灵感",
+            "s": "https://dribbble.com/search?q=%s",
+            "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_39.png"
+          },
+          {
+            "n": "UI中国",
+            "l": "http://s.ui.cn/index.html",
+            "d": "设计师的圈子",
+            "s": "http://s.ui.cn/index.html?keywords=%s&type=project",
+            "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_41.png"
+          },
+          {
+            "n": "IconFont",
+            "l": "http://www.iconfont.cn",
+            "d": "图标库",
+            "s": "http://www.iconfont.cn/search/index?searchType=icon&q=%s",
+            "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_38.png"
+          },
+          {
+            "n": "Pixabay",
+            "l": "https://pixabay.com",
+            "d": "高质量Photo",
+            "s": "https://pixabay.com/en/photos/?q=%s",
+            "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_40.png"
+          }
+        ]
+      },
+      {
+        "label": "收藏",
+        "icon": "heart",
+        "data": [
+          {
+            "n": "huaban",
+            "l": "https:www.huaban.com",
+            "d": "好的图片都在这"
+          }
+        ]
+      },
+      {
+        "label": "工具",
+        "icon": "hammer",
+        "data": [
+          {
+            "n": "baidu",
+            "l": "https:www.baidu.com",
+            "d": "搜索"
+          }
+        ]
+      }
+    ],
+    "data": [
+      {
+        "n": "Google",
+        "l": "https:www.google.com",
+        "d": "搜索",
+        "s": "https://www.google.com.hk/search?q=%s",
+        "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_1.png"
+      },
+      {
+        "n": "花瓣",
+        "l": "https:www.huaban.com",
+        "d": "美的图片都在这",
+        "s": "https://huaban.com/search/?q=%s",
+        "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_5.png"
+      },
+      {
+        "n": "DuckDuckGo",
+        "l": "https://duckduckgo.com",
+        "d": "搜索",
+        "s": "https://duckduckgo.com/?q=%s",
+        "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_8.png"
+      },
+      {
+        "n": "360",
+        "l": "https://hao.360.cn/",
+        "d": "搜索",
+        "s": "https://www.so.com/s?q=%s",
+        "i": "http://www.newasp.net/attachment/soft/2015/0826/094544_40847774.png"
+      },
+      {
+        "n": "百度",
+        "l": "https:www.baidu.com",
+        "d": "搜索",
+        "s": "https://www.baidu.com/s?wd=%s",
+        "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_20.png"
+      },
+      {
+        "n": "站酷",
+        "l": "http://www.zcool.com.cn",
+        "d": "设计师互动平台",
+        "s": "http://www.zcool.com.cn/search/content?&word=%s",
+        "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_36.png"
+      },
+      {
+        "n": "Behance",
+        "l": "https://www.behance.net",
+        "d": "创意设计",
+        "s": "https://www.behance.net/search?search=%s",
+        "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_37.png"
+      },
+      {
+        "n": "Dribbble",
+        "l": "https://dribbble.com",
+        "d": "设计灵感",
+        "s": "https://dribbble.com/search?q=%s",
+        "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_39.png"
+      },
+      {
+        "n": "UI中国",
+        "l": "http://s.ui.cn/index.html",
+        "d": "设计师的圈子",
+        "s": "http://s.ui.cn/index.html?keywords=%s&type=project",
+        "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_41.png"
+      },
+      {
+        "n": "IconFont",
+        "l": "http://www.iconfont.cn",
+        "d": "图标库",
+        "s": "http://www.iconfont.cn/search/index?searchType=icon&q=%s",
+        "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_38.png"
+      },
+      {
+        "n": "Pixabay",
+        "l": "https://pixabay.com",
+        "d": "高质量Photo",
+        "s": "https://pixabay.com/en/photos/?q=%s",
+        "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_40.png"
+      },
+      {
+        "n": "Reeoo",
+        "l": "http://reeoo.com/",
+        "d": "网站设计灵感",
+        "i": "http://www.vokodesign.com/images/fav/fav_004.png"
+      },
+      {
+        "n": "Covers",
+        "l": "http://www.coverr.co",
+        "d": "美的视频",
+        "i": "https://hirschcreative.com/wp-content/uploads/2015/10/final-coverr-white.jpg"
+      }
+    ]
+  },
+  "programmer": {
+    "tabs": [
+      {
+        "label": "搜索",
+        "icon": "search",
+        "data": [
+          {
+            "n": "google",
+            "l": "https:www.google.com",
+            "d": "搜索",
+            "s": "https://www.google.com.hk/search?q=%s"
+          }
+        ]
+      }
+    ],
+    "data": [
+      {
+        "n": "Google",
+        "l": "https:www.google.com",
+        "d": "搜索",
+        "s": "https://www.google.com.hk/search?q=%s",
+        "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_1.png"
+      },
+      {
+        "n": "Github",
+        "l": "https://github.com",
+        "d": "程序猿的圣地",
+        "s": "https://github.com/search?q=%s&ref=opensearch",
+        "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_2.png"
+      },
+      {
+        "n": "Npm",
+        "l": "https://www.npmjs.com",
+        "d": "JS弹药库",
+        "s": "https://www.npmjs.com/search?q=%s",
+        "i": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/640px-Npm-logo.svg.png"
+      },
+      {
+        "n": "豆瓣读书",
+        "l": "https://book.douban.com",
+        "d": "书库",
+        "s": "https://book.douban.com/subject_search?cat=1003&search_text=%s",
+        "i": "https://img3.doubanio.com/lpic/s29447016.jpg"
+      },
+      {
+        "n": "搜图",
+        "l": "https:www.google.com",
+        "d": "图片搜索",
+        "s": "https://www.google.com/search?tbm=isch&source=hp&biw=1280&bih=680&ei=vD8yWqH8L4yH8wXv_p_YCg&btnG=Google+%E6%90%9C%E7%B4%A2&q=%s&oq=112233&gs_l=img.3..35i39k1j0i19k1l5.1075.2042.0.2216.8.8.0.0.0.0.139.804.0j6.6.0....0...1ac.1.64.img..2.6.802.0..0j0i30k1j0i30i19k1j0i5i30i19k1.0.pKP1tzIrHZA",
+        "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_1.png"
+      },
+      {
+        "n": "Linux命令",
+        "l": "http://man.linuxde.net",
+        "d": "搜索",
+        "s": "http://man.linuxde.net/%s",
+        "i": "http://www.iconarchive.com/download/i98403/dakirby309/simply-styled/OS-Linux.ico"
+      },
+      {
+        "n": "花瓣",
+        "l": "https:www.huaban.com",
+        "d": "美的图片都在这",
+        "s": "https://huaban.com/search/?q=%s",
+        "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_5.png"
+      },
+      {
+        "n": "DuckDuckGo",
+        "l": "https://duckduckgo.com",
+        "d": "搜索",
+        "s": "https://duckduckgo.com/?q=%s",
+        "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_8.png"
+      },
+      {
+        "n": "百度",
+        "l": "https:www.baidu.com",
+        "d": "搜索",
+        "s": "https://www.baidu.com/s?wd=%s",
+        "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_20.png"
+      },
+      {
+        "n": "简书",
+        "l": "http://www.jianshu.com",
+        "d": "笔记",
+        "s": "http://www.jianshu.com/search?q=%s",
+        "i": "https://img1.doubanio.com/lpic/s22708077.jpg"
+      },
+      {
+        "n": "知乎",
+        "l": "https://www.zhihu.com",
+        "d": "问答平台",
+        "s": "https://www.zhihu.com/search?type=content&q=%s",
+        "i": "https://lh3.googleusercontent.com/l-P4txx5H2iQ9H09rYofWp8o1FruSEO5dQ3Y8WQMuxVZDb_pKIzbHcM1lYM-beceCHEz=w300"
+      },
+      {
+        "n": "腾讯视频",
+        "l": "https://v.qq.com",
+        "d": "视频",
+        "i": "https://lh3.googleusercontent.com/PU1Avokx8ZUaLKLzK6hym7t-c6dDQ7fRFj0FSv8JuaBQK-gKWYAIBOQO98AUzWpsTQ=w300"
+      },
+      {
+        "n": "36氪",
+        "l": "http://36kr.com",
+        "d": "创业媒体",
+        "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_29.png"
+      },
+      {
+        "n": "Bitbucket",
+        "l": "https://bitbucket.org",
+        "d": "代码管理",
+        "i": "https://cdn.worldvectorlogo.com/logos/bitbucket.svg"
+      },
+      {
+        "n": "最热",
+        "l": "https://github.com/trending",
+        "d": "Github最热",
+        "i": "https://assets-cdn.github.com/pinned-octocat.svg"
+      },
+      {
+        "n": "Pocket",
+        "l": "https://getpocket.com",
+        "d": "收藏",
+        "i": "https://d15e55tqlrbrds.cloudfront.net/logo-pocket-1484164160616-pocket-300-sq.png"
+      },
+      {
+        "n": "网易云课堂",
+        "l": "http://study.163.com",
+        "d": "教育",
+        "i": "https://tva1.sinaimg.cn/crop.0.0.200.200.180/ba94de6bjw1eldy8chcy0j205k05kq2r.jpg"
+      },
+      {
+        "n": "网易公开课",
+        "l": "https://open.163.com",
+        "d": "教育",
+        "i": "http://img.zcool.cn/community/0154cd577d37570000018c1bf3bf32.png"
+      },
+      {
+        "n": "Vultr",
+        "l": "https://www.vultr.com",
+        "d": "云服务",
+        "i": "https://list.coupons/wp-content/uploads/2017/09/Vultr-Logo1.png"
+      },
+      {
+        "n": "阿里云",
+        "l": "https://www.aliyun.com",
+        "d": "云服务",
+        "i": "http://is3.mzstatic.com/image/thumb/Purple118/v4/d1/40/47/d14047e3-0b16-464f-cb47-5d27375f2598/source/175x175bb.jpg"
+      },
+      {
+        "n": "机器之心",
+        "l": "http://jiqizhixin.com",
+        "d": "媒体",
+        "i": "https://pbs.twimg.com/profile_images/753906274232709120/G422WoaA.jpg"
+      },
+      {
+        "n": "七牛云",
+        "l": "https://www.qiniu.com",
+        "d": "云服务",
+        "i": "https://pbs.twimg.com/profile_images/2808312770/7d0146a8c847b002f2edda9861da0677_400x400.png"
+      },
+      {
+        "n": "BootCDN",
+        "l": "http://www.bootcdn.cn",
+        "d": "CDN",
+        "i": "http://img2.ctoutiao.com/uploads/company/2017/03/22/14901684373718.jpg"
+      },
+      {
+        "n": "百度云盘",
+        "l": "https://pan.baidu.com",
+        "d": "云存储",
+        "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_20.png"
+      },
+      {
+        "n": "有道云笔记",
+        "l": "https://note.youdao.com/web",
+        "d": "云存储",
+        "i": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/d8/8b/f5/d88bf575-952c-05db-cb18-31c6730c27b1/source/256x256bb.jpg"
+      },
+      {
+        "n": "Bugly",
+        "l": "https://bugly.qq.com",
+        "d": "服务",
+        "i": "https://cdn.bugly.qq.com/BuglyLogo/200x200landi.jpg"
+      },
+      {
+        "n": "掘金",
+        "l": "https://juejin.im",
+        "d": "技术",
+        "i": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/%E6%8E%98%E9%87%91_LOGO.png/480px-%E6%8E%98%E9%87%91_LOGO.png"
+      },
+      {
+        "n": "SegmentFault",
+        "l": "http://www.segmentfault.com",
+        "d": "技术",
+        "i": "https://d1qb2nb5cznatu.cloudfront.net/startups/i/207735-cf0d41ee7af5f3aea9ce9c859cad0ef5-medium_jpg.jpg?buster=1368472384"
+      },
+      {
+        "n": "伯乐在线",
+        "l": "http://www.jobbole.com",
+        "d": "媒体&技术",
+        "i": "https://avatars3.githubusercontent.com/u/8531823?s=200&v=4"
+      },
+      {
+        "n": "LintCode",
+        "l": "https://www.lintcode.com",
+        "d": "算法",
+        "i": "http://upload.jianshu.io/collections/images/299883/QQ20161112-2_2x.png?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240"
+      },
+      {
+        "n": "JSBin",
+        "l": "http://jsbin.com",
+        "d": "编辑器",
+        "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_31.png"
+      },
+      {
+        "n": "JsonEditor",
+        "l": "http://jsoneditoronline.org",
+        "d": "编辑器",
+        "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_34.png"
+      },
+      {
+        "n": "站长之家",
+        "l": "http://www.chinaz.com",
+        "d": "技术",
+        "i": "http://p3m1bt7k3.bkt.clouddn.com/logo_35.png"
+      }
+    ]
+  }
+}
