@@ -63,6 +63,9 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [iOS知识原理篇二](http://www.jianshu.com/p/cbd223c4c90f)
 * [Objective C编程规范以及建议](https://juejin.im/post/5a48f5816fb9a0451f314962)
 * [编写高质量iOS与OS X代码的52个有效方法](https://juejin.im/post/5a48f5876fb9a04503106f55)
+* [Method-Swizzle](http://blog.leichunfeng.com/blog/2015/06/14/objective-c-method-swizzling-best-practice/)
+* [函数式编程初探](http://www.ruanyifeng.com/blog/2012/04/functional_programming.html)
+* [浅谈函数式编程和函数响应式编程](https://segmentfault.com/a/1190000003632186)
 
 # 工具
 * [MLeaksFinder](https://github.com/Tencent/MLeaksFinder) - 内存泄漏检测
@@ -72,6 +75,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 
 # 内存管理
 * [ARC的原理详解](http://www.cnblogs.com/runner42/p/5031154.html)
+* [Objective-C Autorelease Pool 的实现原理](http://blog.leichunfeng.com/blog/2015/05/31/objective-c-autorelease-pool-implementation-principle/)
 
 # Swift
 * [Swift文档](https://www.cnswift.org/)
