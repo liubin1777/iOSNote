@@ -12,6 +12,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 - [工具](#工具)
 - [内存管理](#内存管理)
 - [Swift](#Swift)
+- [算法](#算法)
 
 # UIKit
 * [UIView的layout的相关方法](http://www.jianshu.com/p/eb2c4bb4e3f1) - 谈谈UIView的几个layout方法-layoutSubviews、layoutIfNeeded、setNeedsLayout...
@@ -38,7 +39,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 
 # 优化
 
-## UI卡顿
+###### UI卡顿
 * [微信读书 iOS 性能优化总结](http://wereadteam.github.io/2016/05/03/WeRead-Performance/)
 * [iOS监控-卡顿检测](http://www.jianshu.com/p/ea36e0f2e7ae) 
 * [iOS进阶之页面性能优化](http://www.jianshu.com/p/1b5cbf155b31)
@@ -74,3 +75,10 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 
 # Swift
 * [Swift文档](https://www.cnswift.org/)
+
+# 算法
+* [八大排序算法](http://blog.csdn.net/hguisu/article/details/7776068)
+* [经典排序算法总结与实现](http://wuchong.me/blog/2014/02/09/algorithm-sort-summary/)
+
+# 面试
+* [easy-job](https://github.com/it-interview/easy-job)
