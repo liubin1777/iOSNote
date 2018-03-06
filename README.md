@@ -12,6 +12,8 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 - [内存管理](#内存管理)
 - [Swift](#Swift)
 - [算法](#算法)
+- [面试](#面试)
+- [网络](#网络)
 - [设计模式](#设计模式)
 - [其它](#其它)
 
@@ -77,6 +79,9 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 # 面试
 * [easy-job](https://github.com/it-interview/easy-job)
 
+# 网络
+* [移动 APP 网络优化概述](http://blog.cnbang.net/tech/3531/)
+
 # 设计模式
 * [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/)
 
@@ -93,3 +98,4 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [Protocol协议分发器](http://www.olinone.com/?p=643)
 * [中文 iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN)
 * [深入理解RunLoop](https://blog.ibireme.com/2015/05/18/runloop/)
+* [iOS运行时(Runtime)详解](https://www.jianshu.com/p/adf0d566c887)
