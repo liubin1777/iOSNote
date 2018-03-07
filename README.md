@@ -78,9 +78,11 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 
 # 面试
 * [easy-job](https://github.com/it-interview/easy-job)
+* [笔试面试知识整理](https://github.com/skyline75489)
 
 # 网络
 * [移动 APP 网络优化概述](http://blog.cnbang.net/tech/3531/)
+* [TCP协议的流量控制和拥塞控制](http://blog.csdn.net/chenchaofuck1/article/details/51995590)
 
 # 设计模式
 * [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/)
@@ -101,3 +103,8 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [iOS运行时(Runtime)详解](https://www.jianshu.com/p/adf0d566c887)
 * [Web 开发者路线图](https://juejin.im/entry/5a80de89f265da4e976e8d4b)
 * [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* [iOS 程序启动流程解密](https://www.jianshu.com/p/d08732c84ebb)
+* [崩溃日志的字段简单说明](http://www.cnblogs.com/zhou--fei/p/7767659.html)
+* [浅谈iOS Crash](https://www.jianshu.com/p/3261493e6d9e)
+* [对 iOS app 进行安全加固](https://danleechina.github.io/ios-app-security-reinforce/)
+* [iOS程序启动->dyld加载->runtime初始化(初识)](https://www.jianshu.com/p/43db6b0aab8e)
