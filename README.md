@@ -8,11 +8,14 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 - [优化](#优化)
 	- [UI卡顿](#ui卡顿)
 - [签名](#签名)
-- [其它](#其它)
 - [工具](#工具)
 - [内存管理](#内存管理)
 - [Swift](#Swift)
 - [算法](#算法)
+- [面试](#面试)
+- [网络](#网络)
+- [设计模式](#设计模式)
+- [其它](#其它)
 
 # UIKit
 * [UIView的layout的相关方法](http://www.jianshu.com/p/eb2c4bb4e3f1) - 谈谈UIView的几个layout方法-layoutSubviews、layoutIfNeeded、setNeedsLayout...
@@ -56,17 +59,6 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [GCC  LLVM 背景](http://www.cnblogs.com/ydhliphonedev/archive/2012/08/29/2661726.html)
 * [GCC  VS Clang](http://clang.llvm.org/comparison.html)
 
-# 其它
-* [iOS 结构体简述](http://www.jianshu.com/p/7039864c769d)
-* [iOS知识基础篇](http://www.jianshu.com/p/f099e36349cf)
-* [iOS知识原理篇一](http://www.jianshu.com/p/d87efbf427c5)
-* [iOS知识原理篇二](http://www.jianshu.com/p/cbd223c4c90f)
-* [Objective C编程规范以及建议](https://juejin.im/post/5a48f5816fb9a0451f314962)
-* [编写高质量iOS与OS X代码的52个有效方法](https://juejin.im/post/5a48f5876fb9a04503106f55)
-* [Method-Swizzle](http://blog.leichunfeng.com/blog/2015/06/14/objective-c-method-swizzling-best-practice/)
-* [函数式编程初探](http://www.ruanyifeng.com/blog/2012/04/functional_programming.html)
-* [浅谈函数式编程和函数响应式编程](https://segmentfault.com/a/1190000003632186)
-
 # 工具
 * [MLeaksFinder](https://github.com/Tencent/MLeaksFinder) - 内存泄漏检测
 * [BSBacktraceLogger](https://github.com/bestswifter/BSBacktraceLogger) - 一个强大且轻量的线程调用栈分析器
@@ -86,3 +78,33 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 
 # 面试
 * [easy-job](https://github.com/it-interview/easy-job)
+* [笔试面试知识整理](https://github.com/skyline75489)
+
+# 网络
+* [移动 APP 网络优化概述](http://blog.cnbang.net/tech/3531/)
+* [TCP协议的流量控制和拥塞控制](http://blog.csdn.net/chenchaofuck1/article/details/51995590)
+
+# 设计模式
+* [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/)
+
+# 其它
+* [iOS 结构体简述](http://www.jianshu.com/p/7039864c769d)
+* [iOS知识基础篇](http://www.jianshu.com/p/f099e36349cf)
+* [iOS知识原理篇一](http://www.jianshu.com/p/d87efbf427c5)
+* [iOS知识原理篇二](http://www.jianshu.com/p/cbd223c4c90f)
+* [Objective C编程规范以及建议](https://juejin.im/post/5a48f5816fb9a0451f314962)
+* [编写高质量iOS与OS X代码的52个有效方法](https://juejin.im/post/5a48f5876fb9a04503106f55)
+* [Method-Swizzle](http://blog.leichunfeng.com/blog/2015/06/14/objective-c-method-swizzling-best-practice/)
+* [函数式编程初探](http://www.ruanyifeng.com/blog/2012/04/functional_programming.html)
+* [浅谈函数式编程和函数响应式编程](https://segmentfault.com/a/1190000003632186)
+* [Protocol协议分发器](http://www.olinone.com/?p=643)
+* [中文 iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN)
+* [深入理解RunLoop](https://blog.ibireme.com/2015/05/18/runloop/)
+* [iOS运行时(Runtime)详解](https://www.jianshu.com/p/adf0d566c887)
+* [Web 开发者路线图](https://juejin.im/entry/5a80de89f265da4e976e8d4b)
+* [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* [iOS 程序启动流程解密](https://www.jianshu.com/p/d08732c84ebb)
+* [崩溃日志的字段简单说明](http://www.cnblogs.com/zhou--fei/p/7767659.html)
+* [浅谈iOS Crash](https://www.jianshu.com/p/3261493e6d9e)
+* [对 iOS app 进行安全加固](https://danleechina.github.io/ios-app-security-reinforce/)
+* [iOS程序启动->dyld加载->runtime初始化(初识)](https://www.jianshu.com/p/43db6b0aab8e)
