@@ -237,32 +237,32 @@
         {
           "name": "有道云笔记",
           "url": "https://note.youdao.com/web/",
-          "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/d8/8b/f5/d88bf575-952c-05db-cb18-31c6730c27b1/source/256x256bb.jpg"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_22.png"
         },
         {
           "name": "Bugly",
           "url": "https://bugly.qq.com",
-          "icon": "https://cdn.bugly.qq.com/BuglyLogo/200x200landi.jpg"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_23.png"
         },
         {
           "name": "OutLook",
           "url": "https://mail.ztgame.com",
-          "icon": "https://www.v3.co.uk/w-images/b9574043-ae2e-4b15-ba0a-55fae128da0a/0/microsoftoutlooklogo-320x320.jpg"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_24.png"
         },
         {
           "name": "巨人网络",
           "url": "http://gnn.ztgame.com/",
-          "icon": "https://img.kanzhun.com/images/logo/20140708/974cd8a08bbfda091721ff43e8827869.jpg"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_26.png"
         },
         {
           "name": "掘金",
           "url": "https://juejin.im/",
-          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/%E6%8E%98%E9%87%91_LOGO.png/480px-%E6%8E%98%E9%87%91_LOGO.png"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_25.png"
         },
         {
           "name": "SegmentFault",
           "url": "http://www.segmentfault.com/",
-          "icon": "https://d1qb2nb5cznatu.cloudfront.net/startups/i/207735-cf0d41ee7af5f3aea9ce9c859cad0ef5-medium_jpg.jpg?buster=1368472384"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_27.png"
         },
         {
           "name": "伯乐在线",
@@ -272,7 +272,7 @@
         {
           "name": "LintCode",
           "url": "https://www.lintcode.com/",
-          "icon": "http://upload.jianshu.io/collections/images/299883/QQ20161112-2_2x.png?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_28.png"
         }
       ]
     },
