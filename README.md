@@ -109,3 +109,5 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [对 iOS app 进行安全加固](https://danleechina.github.io/ios-app-security-reinforce/)
 * [iOS程序启动->dyld加载->runtime初始化(初识)](https://www.jianshu.com/p/43db6b0aab8e)
 * [实例解析防抖动（Debouncing）和节流阀（Throttling）](https://jinlong.github.io/2016/04/24/Debouncing-and-Throttling-Explained-Through-Examples/)
+* [iOS事件点击之发生了什么？](https://www.jianshu.com/p/98ed2eaa40ac)
+* [iOS-使用hitTest控制点击事件的响应对象](https://www.jianshu.com/p/ca3cd5306668)
