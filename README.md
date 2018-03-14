@@ -112,3 +112,4 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [iOS事件点击之发生了什么？](https://www.jianshu.com/p/98ed2eaa40ac)
 * [iOS-使用hitTest控制点击事件的响应对象](https://www.jianshu.com/p/ca3cd5306668)
 * [method 详解](https://www.jianshu.com/p/d8889f83842f)
+* [深入理解 RunLoop](http://honglu.me/2017/03/30/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3RunLoop/)
