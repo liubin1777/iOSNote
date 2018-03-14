@@ -113,3 +113,5 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [iOS-使用hitTest控制点击事件的响应对象](https://www.jianshu.com/p/ca3cd5306668)
 * [method 详解](https://www.jianshu.com/p/d8889f83842f)
 * [深入理解 RunLoop](http://honglu.me/2017/03/30/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3RunLoop/)
+* [获取设备唯一标识符](https://www.jianshu.com/p/a2879b2cbe04)
+* [iOS钥匙串Keychain安全机制](http://cocofei.top/2017/05/iOS%E9%92%A5%E5%8C%99%E4%B8%B2Keychain%E5%AE%89%E5%85%A8%E6%9C%BA%E5%88%B6/)
