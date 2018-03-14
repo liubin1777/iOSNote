@@ -111,3 +111,4 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [实例解析防抖动（Debouncing）和节流阀（Throttling）](https://jinlong.github.io/2016/04/24/Debouncing-and-Throttling-Explained-Through-Examples/)
 * [iOS事件点击之发生了什么？](https://www.jianshu.com/p/98ed2eaa40ac)
 * [iOS-使用hitTest控制点击事件的响应对象](https://www.jianshu.com/p/ca3cd5306668)
+* [method 详解](https://www.jianshu.com/p/d8889f83842f)
