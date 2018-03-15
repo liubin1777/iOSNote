@@ -39,6 +39,8 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [深入理解RunLoop](https://blog.ibireme.com/2015/05/18/runloop/)
 * [深入理解iOS开发中的锁](https://bestswifter.com/ios-lock/)
 * [iOS笔记-多线程相关(pthread 、NSThread 、GCD、NSOperation)](http://www.jianshu.com/p/ccd1aa9bae00)
+* [RunLoop与线程与GCD的关系](https://www.jianshu.com/p/207de95122d6)
+* [RunLoop总结：RunLoop 与GCD 、Autorelease Pool之间的关系](http://blog.csdn.net/u011619283/article/details/53783650)
 
 # 优化
 
@@ -79,10 +81,12 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 # 面试
 * [easy-job](https://github.com/it-interview/easy-job)
 * [笔试面试知识整理](https://github.com/skyline75489)
+* [《招聘一个靠谱的iOS》](https://github.com/ChenYilong/iOSInterviewQuestions/tree/master/01%E3%80%8A%E6%8B%9B%E8%81%98%E4%B8%80%E4%B8%AA%E9%9D%A0%E8%B0%B1%E7%9A%84iOS%E3%80%8B%E9%9D%A2%E8%AF%95%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88)
 
 # 网络
 * [移动 APP 网络优化概述](http://blog.cnbang.net/tech/3531/)
 * [TCP协议的流量控制和拥塞控制](http://blog.csdn.net/chenchaofuck1/article/details/51995590)
+* [TCP慢启动、拥塞避免、快速重传、快速恢复](http://blog.csdn.net/itmacar/article/details/12278769)
 
 # 设计模式
 * [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/)
@@ -116,3 +120,6 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [获取设备唯一标识符](https://www.jianshu.com/p/a2879b2cbe04)
 * [iOS钥匙串Keychain安全机制](http://cocofei.top/2017/05/iOS%E9%92%A5%E5%8C%99%E4%B8%B2Keychain%E5%AE%89%E5%85%A8%E6%9C%BA%E5%88%B6/)
 * [iOS学习资料整理](http://zixun.github.io/blog/2014/03/06/iosxue-xi-zi-liao-zheng-li/)
+* [RunLoop 详解](http://sunshineyg888.github.io/2016/05/21/RunLoop-%E8%AF%A6%E8%A7%A3/)
+* [Objective-C Runtime](http://sunshineyg888.github.io/2016/05/24/Objective-C-Runtime/)
+* [NSTimer学习笔记](https://segmentfault.com/a/1190000009404275)
