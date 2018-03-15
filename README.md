@@ -15,6 +15,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 - [面试](#面试)
 - [网络](#网络)
 - [设计模式](#设计模式)
+- [汇编](#汇编)
 - [其它](#其它)
 
 # UIKit
@@ -50,6 +51,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [iOS进阶之页面性能优化](http://www.jianshu.com/p/1b5cbf155b31)
 * [RunLoop下的卡顿监控](http://www.jianshu.com/p/582b7ad7fe4d)
 * [iOS 保持界面流畅的技巧](https://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
+* [iOS 高性能异构滚动视图构建方案 —— LazyScrollView](http://pingguohe.net/2016/01/31/lazyscroll.html)
 
 # 签名
 * [iOS App 签名的原理](http://wereadteam.github.io/2017/03/13/Signature/)
@@ -87,9 +89,16 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [移动 APP 网络优化概述](http://blog.cnbang.net/tech/3531/)
 * [TCP协议的流量控制和拥塞控制](http://blog.csdn.net/chenchaofuck1/article/details/51995590)
 * [TCP慢启动、拥塞避免、快速重传、快速恢复](http://blog.csdn.net/itmacar/article/details/12278769)
+* [计算机网络传输层知识点全覆盖](https://cloud.tencent.com/developer/article/1056821)
 
 # 设计模式
 * [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/)
+
+# 汇编
+* [汇编指令 中英文助记表](http://blog.csdn.net/beijiaan/article/details/79290871)
+* [ARM常用汇编指令](http://blog.csdn.net/glorin/article/details/6360796)
+* [ARM汇编指令和伪指令](http://blog.csdn.net/u013083059/article/details/78211013)
+* [ARM汇编速记卡](http://infocenter.arm.com/help/topic/com.arm.doc.qrc0001mc/QRC0001_UAL.pdf)
 
 # 其它
 * [iOS 结构体简述](http://www.jianshu.com/p/7039864c769d)
@@ -123,3 +132,4 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [RunLoop 详解](http://sunshineyg888.github.io/2016/05/21/RunLoop-%E8%AF%A6%E8%A7%A3/)
 * [Objective-C Runtime](http://sunshineyg888.github.io/2016/05/24/Objective-C-Runtime/)
 * [NSTimer学习笔记](https://segmentfault.com/a/1190000009404275)
+* [元类(meta class)](https://www.jianshu.com/p/7402c75f84a9)
