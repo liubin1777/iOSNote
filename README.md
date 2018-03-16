@@ -42,6 +42,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [iOS笔记-多线程相关(pthread 、NSThread 、GCD、NSOperation)](http://www.jianshu.com/p/ccd1aa9bae00)
 * [RunLoop与线程与GCD的关系](https://www.jianshu.com/p/207de95122d6)
 * [RunLoop总结：RunLoop 与GCD 、Autorelease Pool之间的关系](http://blog.csdn.net/u011619283/article/details/53783650)
+* [进程和线程的区别](http://www.cnblogs.com/lmule/archive/2010/08/18/1802774.html)
 
 # 优化
 
@@ -133,3 +134,4 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [Objective-C Runtime](http://sunshineyg888.github.io/2016/05/24/Objective-C-Runtime/)
 * [NSTimer学习笔记](https://segmentfault.com/a/1190000009404275)
 * [元类(meta class)](https://www.jianshu.com/p/7402c75f84a9)
+* [深入理解iOS App的启动过程](http://blog.csdn.net/Hello_Hwc/article/details/78317863)
