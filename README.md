@@ -94,6 +94,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 
 # 设计模式
 * [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/)
+* [浅谈开发中的MVVM模式及与MVP和MVC的区别](https://www.jianshu.com/p/ffcb84dc4ebc)
 
 # 汇编
 * [汇编指令 中英文助记表](http://blog.csdn.net/beijiaan/article/details/79290871)
