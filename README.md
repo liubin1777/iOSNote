@@ -53,6 +53,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [RunLoop下的卡顿监控](http://www.jianshu.com/p/582b7ad7fe4d)
 * [iOS 保持界面流畅的技巧](https://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
 * [iOS 高性能异构滚动视图构建方案 —— LazyScrollView](http://pingguohe.net/2016/01/31/lazyscroll.html)
+* [iOS 性能优化的探索](https://www.jianshu.com/p/b8346c1a4145)
 
 # 签名
 * [iOS App 签名的原理](http://wereadteam.github.io/2017/03/13/Signature/)
@@ -138,3 +139,4 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [深入理解iOS App的启动过程](http://blog.csdn.net/Hello_Hwc/article/details/78317863)
 * [WebView性能、体验分析与优化](https://tech.meituan.com/WebViewPerf.html)
 * [Release模式和Debug模式区别](https://www.jianshu.com/p/7554ca6553d3)
+* [技术面试需要掌握的基础知识整理](https://github.com/CyC2018/Interview-Notebook)
