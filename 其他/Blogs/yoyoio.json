@@ -146,7 +146,7 @@
         {
           "name": "百度",
           "url": "https://www.baidu.com/s?wd=%s",
-          "icon": "https://cdn.worldvectorlogo.com/logos/baidu-icon.svg"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_7.png"
         },
         {
           "name": "DuckDuckGo",
@@ -182,7 +182,7 @@
         {
           "name": "Bitbucket",
           "url": "https://bitbucket.org",
-          "icon": "https://cdn.worldvectorlogo.com/logos/bitbucket.svg"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_12.png"
         },
         {
           "name": "最热",
@@ -192,7 +192,7 @@
         {
           "name": "Pocket",
           "url": "https://getpocket.com",
-          "icon": "https://d15e55tqlrbrds.cloudfront.net/logo-pocket-1484164160616-pocket-300-sq.png"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_13.png"
         },
         {
           "name": "网易云课堂",
@@ -207,7 +207,7 @@
         {
           "name": "Vultr",
           "url": "https://www.vultr.com/",
-          "icon": "https://list.coupons/wp-content/uploads/2017/09/Vultr-Logo1.png"
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_16.png"
         },
         {
           "name": "阿里云",
