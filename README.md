@@ -74,6 +74,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 # 内存管理
 * [ARC的原理详解](http://www.cnblogs.com/runner42/p/5031154.html)
 * [Objective-C Autorelease Pool 的实现原理](http://blog.leichunfeng.com/blog/2015/05/31/objective-c-autorelease-pool-implementation-principle/)
+* [ios和android的内存回收机制孰优孰劣？](https://www.zhihu.com/question/26616849)
 
 # Swift
 * [Swift文档](https://www.cnswift.org/)
