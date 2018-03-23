@@ -75,6 +75,8 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [ARC的原理详解](http://www.cnblogs.com/runner42/p/5031154.html)
 * [Objective-C Autorelease Pool 的实现原理](http://blog.leichunfeng.com/blog/2015/05/31/objective-c-autorelease-pool-implementation-principle/)
 * [ios和android的内存回收机制孰优孰劣？](https://www.zhihu.com/question/26616849)
+* [ObjectC对象内存布局分析](https://cloud.tencent.com/developer/article/1013100)
+* [Objective-C对象内存布局](http://zxfcumtcs.github.io/2014/07/11/Objective-C-Object-Model3/)
 
 # Swift
 * [Swift文档](https://www.cnswift.org/)
@@ -142,3 +144,4 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [Release模式和Debug模式区别](https://www.jianshu.com/p/7554ca6553d3)
 * [技术面试需要掌握的基础知识整理](https://github.com/CyC2018/Interview-Notebook)
 * [WKWebView 那些坑](https://cloud.tencent.com/developer/article/1005691)
+* [JSPatch 实现原理详解](https://github.com/bang590/JSPatch/wiki/JSPatch-%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3)
