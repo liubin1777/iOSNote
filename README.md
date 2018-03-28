@@ -86,6 +86,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [经典排序算法总结与实现](http://wuchong.me/blog/2014/02/09/algorithm-sort-summary/)
 * [CodingInterviews](https://github.com/gatieme/CodingInterviews)
 * [剑指Offer学习](https://blog.csdn.net/derrantcm/article/details/46887821)
+* [剑指Offer学习2](http://wiki.jikexueyuan.com/project/for-offer/)
 
 # 面试
 * [easy-job](https://github.com/it-interview/easy-job)
