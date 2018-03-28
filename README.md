@@ -43,6 +43,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [RunLoop与线程与GCD的关系](https://www.jianshu.com/p/207de95122d6)
 * [RunLoop总结：RunLoop 与GCD 、Autorelease Pool之间的关系](http://blog.csdn.net/u011619283/article/details/53783650)
 * [进程和线程的区别](http://www.cnblogs.com/lmule/archive/2010/08/18/1802774.html)
+* [进程，线程，协程与并行，并发](https://www.jianshu.com/p/f11724034d50)
 
 # 优化
 
