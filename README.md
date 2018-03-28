@@ -87,6 +87,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [CodingInterviews](https://github.com/gatieme/CodingInterviews)
 * [剑指Offer学习](https://blog.csdn.net/derrantcm/article/details/46887821)
 * [剑指Offer学习2](http://wiki.jikexueyuan.com/project/for-offer/)
+* [漫画算法](https://zhuanlan.zhihu.com/c_144466663)
 
 # 面试
 * [easy-job](https://github.com/it-interview/easy-job)
