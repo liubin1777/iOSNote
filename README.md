@@ -70,6 +70,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [MLeaksFinder](https://github.com/Tencent/MLeaksFinder) - 内存泄漏检测
 * [BSBacktraceLogger](https://github.com/bestswifter/BSBacktraceLogger) - 一个强大且轻量的线程调用栈分析器
 * [Chisel](http://hao.jobbole.com/chisel/?utm_source=ios.jobbole.com&utm_medium=homepage-resources) - iOS app 的辅助调试工具，提供了一系列的 LLDB 命令
+* [iOS进行Monkey测试](https://akixie.github.io/2016/iOS%E8%BF%9B%E8%A1%8CMonkey%E6%B5%8B%E8%AF%95/)
 
 
 # 内存管理
@@ -89,6 +90,9 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [剑指Offer学习](https://blog.csdn.net/derrantcm/article/details/46887821)
 * [剑指Offer学习2](http://wiki.jikexueyuan.com/project/for-offer/)
 * [漫画算法](https://zhuanlan.zhihu.com/c_144466663)
+* [数据结构-堆](https://blog.csdn.net/juanqinyang/article/details/51418629)
+* [NSArray,NSDictionary,NSSet 当中的算法知识](http://ios.jobbole.com/90323/)
+* [优先队列的一种实现方式—堆](http://ios.jobbole.com/90773/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
 
 # 面试
 * [easy-job](https://github.com/it-interview/easy-job)
@@ -97,6 +101,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [牛客网](https://www.nowcoder.com)
 * [hitAlibaba](https://hit-alibaba.github.io/interview/basic/network/HTTP.html)
 * [我的面试题](https://blog.csdn.net/zr1076311296/article/category/5935589)
+* [ 海量数据排序——如果有1TB的数据需要排序，但只有32GB的内存如何排序处理？](https://blog.csdn.net/fx677588/article/details/72471357)
 
 # 网络
 * [移动 APP 网络优化概述](http://blog.cnbang.net/tech/3531/)
