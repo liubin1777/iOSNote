@@ -162,4 +162,6 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [结构体为什么要4字节对齐？](https://blog.csdn.net/yilese/article/details/76199869)
 * [死锁的四个必要条件](https://blog.csdn.net/rabbit_in_android/article/details/50530960)
 * [聊聊Linux 五种IO模型](https://www.jianshu.com/p/486b0965c296)
+* [选择 GCD 还是 NSTimer ？](https://www.jianshu.com/p/0c050af6c5ee)
+* [iOS定时器，你真的会使用吗？](https://www.jianshu.com/p/c167ca4d1e7e)
 
