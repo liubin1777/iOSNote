@@ -164,4 +164,5 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [聊聊Linux 五种IO模型](https://www.jianshu.com/p/486b0965c296)
 * [选择 GCD 还是 NSTimer ？](https://www.jianshu.com/p/0c050af6c5ee)
 * [iOS定时器，你真的会使用吗？](https://www.jianshu.com/p/c167ca4d1e7e)
+* [深入理解 iOS 开发中的锁](https://bestswifter.com/ios-lock/)
 
