@@ -102,6 +102,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [hitAlibaba](https://hit-alibaba.github.io/interview/basic/network/HTTP.html)
 * [我的面试题](https://blog.csdn.net/zr1076311296/article/category/5935589)
 * [ 海量数据排序——如果有1TB的数据需要排序，但只有32GB的内存如何排序处理？](https://blog.csdn.net/fx677588/article/details/72471357)
+* [常见面试题整理--操作系统篇](https://zhuanlan.zhihu.com/p/23755202)
 
 # 网络
 * [移动 APP 网络优化概述](http://blog.cnbang.net/tech/3531/)
@@ -165,4 +166,5 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [选择 GCD 还是 NSTimer ？](https://www.jianshu.com/p/0c050af6c5ee)
 * [iOS定时器，你真的会使用吗？](https://www.jianshu.com/p/c167ca4d1e7e)
 * [深入理解 iOS 开发中的锁](https://bestswifter.com/ios-lock/)
-
+* [操作系统：图文详解 内存映射](https://www.jianshu.com/p/719fc4758813)
+* [程序媛念茜-iOS安全攻防](http://blog.jobbole.com/author/yiyaaixuexi/)
