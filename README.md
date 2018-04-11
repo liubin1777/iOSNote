@@ -174,3 +174,5 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [iOS App 签名的原理](http://blog.cnbang.net/tech/3386/)
 * [HOTP基于时间的一次性密码](https://www.bbsmax.com/A/1O5E7gyz7a/)
 * [深入理解iOS App的启动过程](https://blog.csdn.net/Hello_Hwc/article/details/78317863)
+* [Weak Associated Object](http://zhangbuhuai.com/weak-associated-object/)
+* [温故而知新之dealloc的那些事儿](http://izmw.me/2017/04/07/Dealloc/)
