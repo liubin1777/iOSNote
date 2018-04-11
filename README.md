@@ -29,6 +29,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [详解 CALayer 和 UIView 的区别和联系](http://www.cocoachina.com/ios/20150828/13244.html)
 * [iOS知识UI篇](http://www.jianshu.com/p/e1158b6cb663)
 * [iOS事件处理Hit-Testing](http://www.jianshu.com/p/12ef1c9f9741)
+* [CoreAnimation(核心动画)概述](https://www.jianshu.com/p/7018e61b6ee5)
 
 # 动画
 * [iOS动画，绝对够分量！](http://www.jianshu.com/p/9fa025c42261)
