@@ -171,3 +171,4 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [程序媛念茜-iOS安全攻防](http://blog.jobbole.com/author/yiyaaixuexi/)
 * [iOS编译过程的原理和应用](https://blog.csdn.net/hello_hwc/article/details/53557308)
 * [iOS App 签名的原理](http://blog.cnbang.net/tech/3386/)
+* [HOTP基于时间的一次性密码](https://www.bbsmax.com/A/1O5E7gyz7a/)
