@@ -109,6 +109,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [TCP协议的流量控制和拥塞控制](http://blog.csdn.net/chenchaofuck1/article/details/51995590)
 * [TCP慢启动、拥塞避免、快速重传、快速恢复](http://blog.csdn.net/itmacar/article/details/12278769)
 * [计算机网络传输层知识点全覆盖](https://cloud.tencent.com/developer/article/1056821)
+* [常见面试题整理--计算机网络篇](https://zhuanlan.zhihu.com/p/24001696)
 
 # 设计模式
 * [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/)
