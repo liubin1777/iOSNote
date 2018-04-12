@@ -176,3 +176,6 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [深入理解iOS App的启动过程](https://blog.csdn.net/Hello_Hwc/article/details/78317863)
 * [Weak Associated Object](http://zhangbuhuai.com/weak-associated-object/)
 * [温故而知新之dealloc的那些事儿](http://izmw.me/2017/04/07/Dealloc/)
+* [开源一个封装AFNetworking的网络框架 - SJNetwork](https://juejin.im/post/5a3f4ae8f265da4322416967)
+* [YTKNetwork源码解析](https://juejin.im/post/596d9f536fb9a06bc7497bc5)
+* [基于MVVM，用于快速搭建设置页，个人信息页的框架](https://juejin.im/post/58d06f57a22b9d00643bc308)
