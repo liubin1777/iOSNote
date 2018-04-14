@@ -29,6 +29,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [详解 CALayer 和 UIView 的区别和联系](http://www.cocoachina.com/ios/20150828/13244.html)
 * [iOS知识UI篇](http://www.jianshu.com/p/e1158b6cb663)
 * [iOS事件处理Hit-Testing](http://www.jianshu.com/p/12ef1c9f9741)
+* [CoreAnimation(核心动画)概述](https://www.jianshu.com/p/7018e61b6ee5)
 
 # 动画
 * [iOS动画，绝对够分量！](http://www.jianshu.com/p/9fa025c42261)
@@ -109,6 +110,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [TCP协议的流量控制和拥塞控制](http://blog.csdn.net/chenchaofuck1/article/details/51995590)
 * [TCP慢启动、拥塞避免、快速重传、快速恢复](http://blog.csdn.net/itmacar/article/details/12278769)
 * [计算机网络传输层知识点全覆盖](https://cloud.tencent.com/developer/article/1056821)
+* [常见面试题整理--计算机网络篇](https://zhuanlan.zhihu.com/p/24001696)
 
 # 设计模式
 * [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/)
@@ -171,3 +173,10 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [iOS编译过程的原理和应用](https://blog.csdn.net/hello_hwc/article/details/53557308)
 * [iOS App 签名的原理](http://blog.cnbang.net/tech/3386/)
 * [iOS证书及ipa包重签名探究](http://www.olinone.com/?p=198)
+* [HOTP基于时间的一次性密码](https://www.bbsmax.com/A/1O5E7gyz7a/)
+* [深入理解iOS App的启动过程](https://blog.csdn.net/Hello_Hwc/article/details/78317863)
+* [Weak Associated Object](http://zhangbuhuai.com/weak-associated-object/)
+* [温故而知新之dealloc的那些事儿](http://izmw.me/2017/04/07/Dealloc/)
+* [开源一个封装AFNetworking的网络框架 - SJNetwork](https://juejin.im/post/5a3f4ae8f265da4322416967)
+* [YTKNetwork源码解析](https://juejin.im/post/596d9f536fb9a06bc7497bc5)
+* [基于MVVM，用于快速搭建设置页，个人信息页的框架](https://juejin.im/post/58d06f57a22b9d00643bc308)
