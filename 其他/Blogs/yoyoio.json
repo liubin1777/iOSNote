@@ -53,6 +53,21 @@
           "name": "Pixabay",
           "url": "https://pixabay.com/en/photos/?q=%s",
           "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_40.png"
+        },
+        {
+          "name": "天猫",
+          "url": "https://list.tmall.com/search_product.htm?q=%s",
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo-天猫.jpeg"
+        },
+        {
+          "name": "淘宝",
+          "url": "https://s.taobao.com/search?q=%s",
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo-淘宝.png"
+        },
+        {
+          "name": "京东",
+          "url": "https://search.jd.com/Search?keyword=%s",
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo-京东.jpeg"
         }
       ]
     },
@@ -99,6 +114,16 @@
           "name": "Covers",
           "url": "http://www.coverr.co/",
           "icon": "https://hirschcreative.com/wp-content/uploads/2015/10/final-coverr-white.jpg"
+        },
+        {
+          "name": "腾讯视频",
+          "url": "https://v.qq.com/",
+          "icon": "https://lh3.googleusercontent.com/PU1Avokx8ZUaLKLzK6hym7t-c6dDQ7fRFj0FSv8JuaBQK-gKWYAIBOQO98AUzWpsTQ=w300"
+        },
+                {
+          "name": "优酷",
+          "url": "https://youku.com",
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo-优酷.png"
         }
       ]
     }
@@ -162,6 +187,21 @@
           "name": "知乎",
           "url": "https://www.zhihu.com/search?type=content&q=%s",
           "icon": "https://lh3.googleusercontent.com/l-P4txx5H2iQ9H09rYofWp8o1FruSEO5dQ3Y8WQMuxVZDb_pKIzbHcM1lYM-beceCHEz=w300"
+        },
+        {
+          "name": "天猫",
+          "url": "https://list.tmall.com/search_product.htm?q=%s",
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo-天猫.jpeg"
+        },
+        {
+          "name": "淘宝",
+          "url": "https://s.taobao.com/search?q=%s",
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo-淘宝.png"
+        },
+        {
+          "name": "京东",
+          "url": "https://search.jd.com/Search?keyword=%s",
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo-京东.jpeg"
         }
       ]
     },
@@ -173,6 +213,11 @@
           "name": "腾讯视频",
           "url": "https://v.qq.com/",
           "icon": "https://lh3.googleusercontent.com/PU1Avokx8ZUaLKLzK6hym7t-c6dDQ7fRFj0FSv8JuaBQK-gKWYAIBOQO98AUzWpsTQ=w300"
+        },
+                {
+          "name": "优酷",
+          "url": "https://youku.com",
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo-优酷.png"
         },
         {
           "name": "36氪",
@@ -270,9 +315,9 @@
           "icon": "https://avatars3.githubusercontent.com/u/8531823?s=200&v=4"
         },
         {
-          "name": "LintCode",
-          "url": "https://www.lintcode.com/",
-          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_28.png"
+          "name": "LeettCode",
+          "url": "https://leetcode-cn.com",
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo-LeetCode.png"
         }
       ]
     },
@@ -280,6 +325,16 @@
       "label": "工具",
       "icon": "hammer",
       "list": [
+      {
+          "name": "我的博客",
+          "url": "http://ispeedboy.com",
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo-MyBlog.jpg"
+        },
+              {
+          "name": "百度脑图",
+          "url": "http://naotu.baidu.com",
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo-百度脑图.jpeg"
+        },
         {
           "name": "JSBin",
           "url": "http://jsbin.com/",
@@ -294,6 +349,11 @@
           "name": "站长之家",
           "url": "http://www.chinaz.com/",
           "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_35.png"
+        },
+        {
+          "name": "LintCode",
+          "url": "https://www.lintcode.com/",
+          "icon": "http://p3m1bt7k3.bkt.clouddn.com/logo_28.png"
         }
       ]
     }
