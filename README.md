@@ -179,4 +179,6 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [开源一个封装AFNetworking的网络框架 - SJNetwork](https://juejin.im/post/5a3f4ae8f265da4322416967)
 * [YTKNetwork源码解析](https://juejin.im/post/596d9f536fb9a06bc7497bc5)
 * [基于MVVM，用于快速搭建设置页，个人信息页的框架](https://juejin.im/post/58d06f57a22b9d00643bc308)
+* [Clang Attributes 黑魔法小记](https://blog.sunnyxx.com/2016/05/14/clang-attributes/)
+* [Clang 之旅--实现一个自定义检查规范的 Clang 插件](https://www.jianshu.com/p/c27b77f70616?utm_campaign=hugo&utm_medium=reader_share&utm_content=note)
 
