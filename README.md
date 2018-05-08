@@ -47,6 +47,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [进程，线程，协程与并行，并发](https://www.jianshu.com/p/f11724034d50)
 * [从头认识GCD——派发队列基础](https://wangwangok.github.io/2017/07/29/gcd_basic/)
 * [我的同事金司机出的 5 道 iOS 多线程“面试题”](https://juejin.im/post/5a9aa633518825556a71d9f3)
+* [深入理解 GCD](https://bestswifter.com/deep-gcd/)
 
 # 优化
 
