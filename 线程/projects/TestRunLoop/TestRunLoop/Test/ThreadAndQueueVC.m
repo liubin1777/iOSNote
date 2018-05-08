@@ -34,24 +34,41 @@
 //    dispatch_block_wait(task_block, DISPATCH_TIME_FOREVER);
 //    NSLog(@"After Wait");
     
+    // 主队列
     dispatch_queue_t mainQueue = dispatch_get_main_queue();
+    // 给主队列设置一个标记
     dispatch_queue_set_specific(mainQueue, "key", "main", NULL);
 
+    // 定义一个block任务
     dispatch_block_t log = ^{
+        // 判断是否是主线程
         NSLog(@"main thread: %d", [NSThread isMainThread]);
+        // 判断是否是主队列
         void *value = dispatch_get_specific("key");
         NSLog(@"main queue: %d", value != NULL);
     };
 
+    // 全局队列
     dispatch_queue_t globalQueue = dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_HIGH, 0);
-    dispatch_async(globalQueue, ^{
-        dispatch_async(dispatch_get_main_queue(), log);
+//    // 异步加入全局队列里
+//    dispatch_async(globalQueue, ^{
+//        // 异步加入主队列里
+//        dispatch_async(dispatch_get_main_queue(), log);
+//    });
+    
+    // 同步加入全局队列里
+    dispatch_sync(globalQueue, ^{
+        // 判断是否是主线程
+        NSLog(@"main thread: %d", [NSThread isMainThread]);
+        // 判断是否是主队列
+        void *value = dispatch_get_specific("key");
+        NSLog(@"main queue: %d", value != NULL);
     });
 
-    NSLog(@"before dispatch_main");
+//    NSLog(@"before dispatch_main");
     // 这个方法会阻塞主线程，然后在其它子线程中执行主队列中的任务，这个方法永远不会返回
-    dispatch_main();
-    NSLog(@"after dispatch_main");
+//    dispatch_main();
+//    NSLog(@"after dispatch_main");
 }
 
 @end
