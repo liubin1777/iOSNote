@@ -97,6 +97,11 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [数据结构-堆](https://blog.csdn.net/juanqinyang/article/details/51418629)
 * [NSArray,NSDictionary,NSSet 当中的算法知识](http://ios.jobbole.com/90323/)
 * [优先队列的一种实现方式—堆](http://ios.jobbole.com/90773/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
+* [算法学习记录-排序——堆排序](http://www.cnblogs.com/jsgnadsj/p/3458050.html)
+* [堆和树的区别](https://www.zhihu.com/question/36134980)
+* [二叉查找树，红黑树，AVL树，B~/B+树(B-tree)，伸展树——优缺点及比较](https://blog.csdn.net/bytxl/article/details/40920165)
+* [数据结构算法](https://github.com/Mr-YangCheng/ForAndroidInterview/tree/master/data%20structure)
+* [图的基本算法](https://www.jianshu.com/p/70952b51f0c8)
 
 # 面试
 * [easy-job](https://github.com/it-interview/easy-job)
