@@ -131,6 +131,7 @@ iOS笔记-收藏开发中遇到的问题和技术干货！
 * [ARM汇编速记卡](http://infocenter.arm.com/help/topic/com.arm.doc.qrc0001mc/QRC0001_UAL.pdf)
 
 # 其它
+* [iOS中self和super区别](https://www.jianshu.com/p/15fa5e84c897)
 * [iOS 结构体简述](http://www.jianshu.com/p/7039864c769d)
 * [iOS知识基础篇](http://www.jianshu.com/p/f099e36349cf)
 * [iOS知识原理篇一](http://www.jianshu.com/p/d87efbf427c5)
